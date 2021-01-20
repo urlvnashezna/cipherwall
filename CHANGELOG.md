@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-12-08
+
+- tests: cached rate limiting
+
 ## [Unreleased] - 2026-04-08
 
 - docs: refactored sampling window
