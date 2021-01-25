@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-01-05
+
+- tests: documented failure path
+
 ## [Unreleased] - 2021-12-08
 
 - tests: cached rate limiting
