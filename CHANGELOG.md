@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-05-28
+
+- exporter: clarified edge case
+
 ## [Unreleased] - 2024-01-05
 
 - tests: documented failure path
