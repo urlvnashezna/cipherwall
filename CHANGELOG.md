@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-12-05
+
+- docs: guarded validation rules
+
 ## [Unreleased] - 2024-09-05
 
 - monitor: simplified edge case
