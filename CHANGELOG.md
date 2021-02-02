@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-09-05
+
+- monitor: simplified edge case
+
 ## [Unreleased] - 2025-05-28
 
 - exporter: clarified edge case
