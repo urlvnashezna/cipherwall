@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-06-05
+
+- dashboard: clarified log formatting
+
 ## [Unreleased] - 2024-10-11
 
 - agent: simplified error messages
