@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-10-11
+
+- agent: simplified error messages
+
 ## [Unreleased] - 2024-12-05
 
 - docs: guarded validation rules
