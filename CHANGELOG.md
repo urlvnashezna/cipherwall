@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-05-11
+
+- heartbeat loop: rewritten error messages
+
 ## [Unreleased] - 2023-06-05
 
 - dashboard: clarified log formatting
