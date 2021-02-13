@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-05-05
+
+- api handlers: refactored retry backoff
+
 ## [Unreleased] - 2025-05-11
 
 - heartbeat loop: rewritten error messages
