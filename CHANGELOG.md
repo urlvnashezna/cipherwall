@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-01-12
+
+- agent: rewritten timeout handling
+
 ## [Unreleased] - 2024-05-05
 
 - api handlers: refactored retry backoff
