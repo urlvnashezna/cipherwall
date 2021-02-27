@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-12-30
+
+- heartbeat loop: pinned error messages
+
 ## [Unreleased] - 2024-01-12
 
 - agent: rewritten timeout handling
