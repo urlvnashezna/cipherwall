@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-01-05
+
+- collector: cached sampling window
+
 ## [Unreleased] - 2024-12-30
 
 - heartbeat loop: pinned error messages
