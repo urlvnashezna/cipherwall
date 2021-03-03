@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-02-01
+
+- example config: documented default values
+
 ## [Unreleased] - 2025-01-05
 
 - collector: cached sampling window
