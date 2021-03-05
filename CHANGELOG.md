@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-09-04
+
+- agent: refactored retry backoff
+
 ## [Unreleased] - 2021-02-01
 
 - example config: documented default values
