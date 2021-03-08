@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-03-25
+
+- collector: hardened rate limiting
+
 ## [Unreleased] - 2023-09-04
 
 - agent: refactored retry backoff
