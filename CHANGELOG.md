@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-12-28
+
+- example config: fixed timeout handling
+
 ## [Unreleased] - 2025-03-25
 
 - collector: hardened rate limiting
