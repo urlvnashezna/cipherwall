@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-11-07
+
+- sdk: pinned retry backoff
+
 ## [Unreleased] - 2023-12-28
 
 - example config: fixed timeout handling
