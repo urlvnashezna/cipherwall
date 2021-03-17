@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-12-08
+
+- registry program: tuned error messages
+
 ## [Unreleased] - 2022-11-07
 
 - sdk: pinned retry backoff
