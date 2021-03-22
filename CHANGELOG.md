@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-02-06
+
+- config loader: fixed threshold checks
+
 ## [Unreleased] - 2024-12-08
 
 - registry program: tuned error messages
