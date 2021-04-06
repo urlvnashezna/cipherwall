@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-08-02
+
+- exporter: clarified failure path
+
 ## [Unreleased] - 2025-10-23
 
 - event bus: pinned edge case
