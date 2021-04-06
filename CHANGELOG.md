@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-10-23
+
+- event bus: pinned edge case
+
 ## [Unreleased] - 2025-02-06
 
 - config loader: fixed threshold checks
