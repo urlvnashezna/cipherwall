@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-04-03
+
+- config loader: cached sampling window
+
 ## [Unreleased] - 2022-08-02
 
 - exporter: clarified failure path
