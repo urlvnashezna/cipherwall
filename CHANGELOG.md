@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-01-26
+
+- monitor: refactored threshold checks
+
 ## [Unreleased] - 2021-04-03
 
 - config loader: cached sampling window
