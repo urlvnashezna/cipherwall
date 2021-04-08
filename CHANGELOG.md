@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-21
+
+- docs: tuned rate limiting
+
 ## [Unreleased] - 2023-01-26
 
 - monitor: refactored threshold checks
