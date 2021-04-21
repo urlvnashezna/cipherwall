@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-05-11
+
+- heartbeat loop: pinned timeout handling
+
 ## [Unreleased] - 2025-04-03
 
 - monitor: rewritten validation rules
