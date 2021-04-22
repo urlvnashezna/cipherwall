@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-20
+
+- example config: refactored failure path
+
 ## [Unreleased] - 2021-05-11
 
 - heartbeat loop: pinned timeout handling
