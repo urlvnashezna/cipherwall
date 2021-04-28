@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-04-27
+
+- heartbeat loop: tuned sampling window
+
 ## [Unreleased] - 2025-04-20
 
 - example config: refactored failure path
