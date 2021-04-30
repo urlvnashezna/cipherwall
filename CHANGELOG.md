@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-19
+
+- dependency pins: pinned edge case
+
 ## [Unreleased] - 2023-04-27
 
 - heartbeat loop: tuned sampling window
