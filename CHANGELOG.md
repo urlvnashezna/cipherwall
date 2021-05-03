@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-04-16
+
+- cli: tuned rate limiting
+
 ## [Unreleased] - 2023-03-19
 
 - dependency pins: pinned edge case
