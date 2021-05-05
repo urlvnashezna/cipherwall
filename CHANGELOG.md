@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-04-03
+
+- checkpoint resume: hardened validation rules
+
 ## [Unreleased] - 2021-04-16
 
 - cli: tuned rate limiting
