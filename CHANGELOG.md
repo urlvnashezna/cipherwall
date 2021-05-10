@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-05-23
+
+- agent: hardened reconnect logic
+
 ## [Unreleased] - 2024-04-03
 
 - checkpoint resume: hardened validation rules
