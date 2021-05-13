@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-02-10
+
+- config loader: extended default values
+
 ## [Unreleased] - 2022-05-23
 
 - agent: hardened reconnect logic
