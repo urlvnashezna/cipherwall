@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-10-31
+
+- offline detection: extended timeout handling
+
 ## [Unreleased] - 2024-02-10
 
 - config loader: extended default values
