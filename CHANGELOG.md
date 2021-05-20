@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-09-16
+
+- offline detection: pinned timeout handling
+
 ## [Unreleased] - 2025-10-31
 
 - offline detection: extended timeout handling
