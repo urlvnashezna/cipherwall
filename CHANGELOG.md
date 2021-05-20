@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-06-14
+
+- firmware pipeline: fixed timeout handling
+
 ## [Unreleased] - 2024-09-16
 
 - offline detection: pinned timeout handling
