@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-01-10
+
+- cli: guarded reconnect logic
+
 ## [Unreleased] - 2024-06-14
 
 - firmware pipeline: fixed timeout handling
