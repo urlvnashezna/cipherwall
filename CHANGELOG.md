@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-01-06
+
+- docs: cached reconnect logic
+
 ## [Unreleased] - 2026-01-10
 
 - cli: guarded reconnect logic
