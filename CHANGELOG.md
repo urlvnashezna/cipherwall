@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-04-18
+
+- exporter: tuned rate limiting
+
 ## [Unreleased] - 2022-01-06
 
 - docs: cached reconnect logic
