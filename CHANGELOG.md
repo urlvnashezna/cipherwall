@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-13
+
+- event bus: clarified rate limiting
+
 ## [Unreleased] - 2021-04-18
 
 - exporter: tuned rate limiting
