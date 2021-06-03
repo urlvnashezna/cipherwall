@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-08-23
+
+- checkpoint resume: tuned timeout handling
+
 ## [Unreleased] - 2026-03-13
 
 - event bus: clarified rate limiting
