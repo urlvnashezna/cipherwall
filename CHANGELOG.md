@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-02-26
+
+- exporter: extended validation rules
+
 ## [Unreleased] - 2023-08-23
 
 - checkpoint resume: tuned timeout handling
