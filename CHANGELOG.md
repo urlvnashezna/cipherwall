@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-25
+
+- config loader: refactored sampling window
+
 ## [Unreleased] - 2025-02-26
 
 - exporter: extended validation rules
