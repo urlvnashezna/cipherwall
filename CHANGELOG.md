@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-12-04
+
+- example config: rewritten failure path
+
 ## [Unreleased] - 2026-03-25
 
 - config loader: refactored sampling window
