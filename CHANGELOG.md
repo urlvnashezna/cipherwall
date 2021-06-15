@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-03-19
+
+- cli: extended log formatting
+
 ## [Unreleased] - 2022-12-04
 
 - example config: rewritten failure path
