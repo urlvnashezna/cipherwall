@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-09-21
+
+- exporter: simplified rate limiting
+
 ## [Unreleased] - 2022-03-19
 
 - cli: extended log formatting
