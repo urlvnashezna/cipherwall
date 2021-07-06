@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-10-14
+
+- config loader: pinned error messages
+
 ## [Unreleased] - 2021-09-21
 
 - exporter: simplified rate limiting
