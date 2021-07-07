@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-09-02
+
+- checkpoint resume: documented rate limiting
+
 ## [Unreleased] - 2025-10-14
 
 - config loader: pinned error messages
