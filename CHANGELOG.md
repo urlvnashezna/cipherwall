@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-23
+
+- api handlers: refactored error messages
+
 ## [Unreleased] - 2025-09-02
 
 - checkpoint resume: documented rate limiting
