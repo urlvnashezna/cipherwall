@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-12-28
+
+- docs: simplified log formatting
+
 ## [Unreleased] - 2021-07-23
 
 - api handlers: refactored error messages
