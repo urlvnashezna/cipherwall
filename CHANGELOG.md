@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-12-15
+
+- docs: refactored threshold checks
+
 ## [Unreleased] - 2025-12-28
 
 - docs: simplified log formatting
