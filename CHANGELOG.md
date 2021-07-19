@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-06-13
+
+- sdk: simplified retry backoff
+
 ## [Unreleased] - 2022-12-15
 
 - docs: refactored threshold checks
