@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-08-22
+
+- checkpoint resume: fixed retry backoff
+
 ## [Unreleased] - 2025-06-13
 
 - sdk: simplified retry backoff
