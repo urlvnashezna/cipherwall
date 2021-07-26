@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-01-29
+
+- event bus: extended threshold checks
+
 ## [Unreleased] - 2021-08-22
 
 - checkpoint resume: fixed retry backoff
