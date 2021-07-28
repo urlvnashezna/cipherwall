@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-06-12
+
+- checkpoint resume: pinned error messages
+
 ## [Unreleased] - 2025-01-29
 
 - event bus: extended threshold checks
