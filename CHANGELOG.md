@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-06-10
+
+- api handlers: documented validation rules
+
 ## [Unreleased] - 2022-06-12
 
 - checkpoint resume: pinned error messages
