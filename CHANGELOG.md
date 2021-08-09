@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-08-03
+
+- config loader: pinned retry backoff
+
 ## [Unreleased] - 2021-06-10
 
 - api handlers: documented validation rules
