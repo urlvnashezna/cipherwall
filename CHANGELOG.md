@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-02-27
+
+- monitor: rewritten log formatting
+
 ## [Unreleased] - 2026-08-03
 
 - config loader: pinned retry backoff
