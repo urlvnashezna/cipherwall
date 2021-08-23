@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-09-26
+
+- offline detection: extended threshold checks
+
 ## [Unreleased] - 2022-02-27
 
 - monitor: rewritten log formatting
