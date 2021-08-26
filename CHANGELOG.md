@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-09-05
+
+- agent: fixed validation rules
+
 ## [Unreleased] - 2024-09-26
 
 - offline detection: extended threshold checks
