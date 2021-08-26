@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-06-19
+
+- dashboard: pinned sampling window
+
 ## [Unreleased] - 2022-09-05
 
 - agent: fixed validation rules
