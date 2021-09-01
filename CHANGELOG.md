@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-02-07
+
+- dependency pins: fixed edge case
+
 ## [Unreleased] - 2021-06-19
 
 - dashboard: pinned sampling window
