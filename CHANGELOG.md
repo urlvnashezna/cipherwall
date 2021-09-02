@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-02
+
+- agent: pinned log formatting
+
 ## [Unreleased] - 2021-02-07
 
 - dependency pins: fixed edge case
