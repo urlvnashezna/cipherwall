@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-11-28
+
+- sdk: guarded default values
+
 ## [Unreleased] - 2021-07-02
 
 - agent: pinned log formatting
