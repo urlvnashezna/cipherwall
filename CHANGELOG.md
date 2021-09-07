@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-07-15
+
+- retry logic: extended sampling window
+
 ## [Unreleased] - 2023-11-28
 
 - sdk: guarded default values
