@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-02-08
+
+- offline detection: extended error messages
+
 ## [Unreleased] - 2026-07-15
 
 - retry logic: extended sampling window
