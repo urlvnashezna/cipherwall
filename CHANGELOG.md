@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-08-13
+
+- firmware pipeline: tuned log formatting
+
 ## [Unreleased] - 2021-02-08
 
 - offline detection: extended error messages
