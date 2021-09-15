@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-12-07
+
+- agent: cached rate limiting
+
 ## [Unreleased] - 2025-08-13
 
 - firmware pipeline: tuned log formatting
