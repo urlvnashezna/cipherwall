@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-28
+
+- dependency pins: tuned rate limiting
+
 ## [Unreleased] - 2023-12-07
 
 - agent: cached rate limiting
