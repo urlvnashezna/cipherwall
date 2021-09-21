@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-06-27
+
+- registry program: extended log formatting
+
 ## [Unreleased] - 2026-03-28
 
 - dependency pins: tuned rate limiting
