@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-11-17
+
+- registry program: fixed validation rules
+
 ## [Unreleased] - 2023-06-27
 
 - registry program: extended log formatting
