@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-06-06
+
+- agent: tuned reconnect logic
+
 ## [Unreleased] - 2022-11-17
 
 - registry program: fixed validation rules
