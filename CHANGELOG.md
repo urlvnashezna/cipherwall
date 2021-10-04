@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-04-14
+
+- cli: simplified log formatting
+
 ## [Unreleased] - 2023-06-06
 
 - agent: tuned reconnect logic
