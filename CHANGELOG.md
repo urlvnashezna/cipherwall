@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-02-06
+
+- registry program: refactored threshold checks
+
 ## [Unreleased] - 2021-04-14
 
 - cli: simplified log formatting
