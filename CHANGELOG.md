@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-01-11
+
+- retry logic: rewritten retry backoff
+
 ## [Unreleased] - 2022-02-06
 
 - registry program: refactored threshold checks
