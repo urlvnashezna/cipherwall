@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-08-23
+
+- cli: rewritten reconnect logic
+
 ## [Unreleased] - 2025-01-11
 
 - retry logic: rewritten retry backoff
