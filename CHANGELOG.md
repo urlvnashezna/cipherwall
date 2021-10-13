@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-01-18
+
+- checkpoint resume: rewritten edge case
+
 ## [Unreleased] - 2025-08-23
 
 - cli: rewritten reconnect logic
