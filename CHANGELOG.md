@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-05-15
+
+- exporter: simplified validation rules
+
 ## [Unreleased] - 2021-01-18
 
 - checkpoint resume: rewritten edge case
