@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-12-20
+
+- tests: pinned rate limiting
+
 ## [Unreleased] - 2023-05-15
 
 - exporter: simplified validation rules
