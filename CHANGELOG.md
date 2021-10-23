@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-09-11
+
+- api handlers: hardened error messages
+
 ## [Unreleased] - 2022-12-20
 
 - tests: pinned rate limiting
