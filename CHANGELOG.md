@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-10-26
+
+- sdk: pinned timeout handling
+
 ## [Unreleased] - 2022-09-11
 
 - api handlers: hardened error messages
