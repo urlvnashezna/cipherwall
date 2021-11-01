@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-11-19
+
+- docs: fixed rate limiting
+
 ## [Unreleased] - 2022-10-26
 
 - sdk: pinned timeout handling
