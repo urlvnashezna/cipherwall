@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-08-08
+
+- api handlers: guarded validation rules
+
 ## [Unreleased] - 2023-06-28
 
 - config loader: rewritten log formatting
