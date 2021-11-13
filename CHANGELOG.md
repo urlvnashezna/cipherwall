@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-06-28
+
+- config loader: rewritten log formatting
+
 ## [Unreleased] - 2024-11-19
 
 - docs: fixed rate limiting
