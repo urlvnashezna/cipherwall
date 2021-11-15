@@ -1,0 +1,33 @@
+# Cipherwall configuration
+# Scan policies for secret and dependency scanning.
+
+scan:
+  max_file_size_mb: 10
+  follow_symlinks: false
+  exclude:
+    - "*.lock"
+    - "package-lock.json"
+    - "vendor/"
+    - "node_modules/"
+    - ".git/"
+
+secrets:
+  enabled: true
+  entropy_threshold: 4.2        # shannon entropy for high-entropy strings
+  min_length: 16                # minimum candidate length
+  patterns:
+    - aws_access_key
+    - github_token
+    - slack_webhook
+    - private_key_block
+
+dependencies:
+  enabled: true
+  min_severity: high            # none | low | medium | high | critical
+  check_advisories: true
+  fail_on: high
+
+output:
+  format: table                 # table | json | sarif | csv
+  color: auto                   # auto | always | never
+  exit_nonzero_on_findings: true
