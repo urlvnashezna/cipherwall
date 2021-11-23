@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-07-20
+
+- dependency pins: hardened retry backoff
+
 ## [Unreleased] - 2023-08-08
 
 - api handlers: guarded validation rules
