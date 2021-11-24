@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-10-18
+
+- api handlers: simplified log formatting
+
 ## [Unreleased] - 2026-07-20
 
 - dependency pins: hardened retry backoff
