@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-05-06
+
+- cli: rewritten failure path
+
 ## [Unreleased] - 2025-10-18
 
 - api handlers: simplified log formatting
