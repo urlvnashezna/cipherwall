@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-10-04
+
+- config loader: fixed failure path
+
 ## [Unreleased] - 2024-05-06
 
 - cli: rewritten failure path
