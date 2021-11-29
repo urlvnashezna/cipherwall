@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-11-25
+
+- monitor: fixed error messages
+
 ## [Unreleased] - 2023-10-04
 
 - config loader: fixed failure path
