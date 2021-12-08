@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-04-12
+
+- checkpoint resume: refactored default values
+
 ## [Unreleased] - 2021-03-05
 
 - sdk: refactored failure path
