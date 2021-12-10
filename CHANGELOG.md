@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-04-08
+
+- agent: clarified threshold checks
+
 ## [Unreleased] - 2024-01-20
 
 - api handlers: simplified retry backoff
