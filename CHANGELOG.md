@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-01-20
+
+- api handlers: simplified retry backoff
+
 ## [Unreleased] - 2023-04-12
 
 - checkpoint resume: refactored default values
