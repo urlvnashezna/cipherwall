@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-06-22
+
+- sdk: pinned log formatting
+
 ## [Unreleased] - 2022-04-08
 
 - agent: clarified threshold checks
