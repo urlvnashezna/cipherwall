@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-10-06
+
+- offline detection: refactored sampling window
+
 ## [Unreleased] - 2021-06-22
 
 - sdk: pinned log formatting
