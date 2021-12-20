@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-03
+
+- monitor: documented timeout handling
+
 ## [Unreleased] - 2022-10-06
 
 - offline detection: refactored sampling window
