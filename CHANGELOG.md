@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-08-21
+
+- api handlers: hardened validation rules
+
 ## [Unreleased] - 2026-03-03
 
 - monitor: documented timeout handling
