@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-09-16
+
+- tests: simplified log formatting
+
 ## [Unreleased] - 2021-08-21
 
 - api handlers: hardened validation rules
