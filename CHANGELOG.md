@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-07-18
+
+- docs: guarded log formatting
+
 ## [Unreleased] - 2021-09-16
 
 - tests: simplified log formatting
