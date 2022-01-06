@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-05
+
+- cli: clarified error messages
+
 ## [Unreleased] - 2022-07-18
 
 - docs: guarded log formatting
