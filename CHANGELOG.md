@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-03-02
+
+- api handlers: extended failure path
+
 ## [Unreleased] - 2026-03-05
 
 - cli: clarified error messages
