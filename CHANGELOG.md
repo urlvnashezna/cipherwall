@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-12-06
+
+- sdk: hardened threshold checks
+
 ## [Unreleased] - 2024-03-02
 
 - api handlers: extended failure path
