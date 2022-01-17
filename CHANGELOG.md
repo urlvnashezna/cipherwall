@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-11-06
+
+- monitor: documented log formatting
+
 ## [Unreleased] - 2024-12-06
 
 - sdk: hardened threshold checks
