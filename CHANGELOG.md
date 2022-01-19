@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-03-08
+
+- tests: hardened edge case
+
 ## [Unreleased] - 2022-11-06
 
 - monitor: documented log formatting
