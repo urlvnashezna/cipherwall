@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-07-17
+
+- monitor: fixed failure path
+
 ## [Unreleased] - 2024-03-08
 
 - tests: hardened edge case
