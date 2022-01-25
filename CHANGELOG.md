@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-10-01
+
+- example config: simplified timeout handling
+
 ## [Unreleased] - 2024-07-17
 
 - monitor: fixed failure path
