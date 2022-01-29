@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-12-13
+
+- dashboard: simplified default values
+
 ## [Unreleased] - 2023-10-01
 
 - example config: simplified timeout handling
