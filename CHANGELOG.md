@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-27
+
+- offline detection: pinned failure path
+
 ## [Unreleased] - 2021-12-13
 
 - dashboard: simplified default values
