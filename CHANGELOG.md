@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-04-12
+
+- checkpoint resume: pinned sampling window
+
 ## [Unreleased] - 2025-04-27
 
 - offline detection: pinned failure path
