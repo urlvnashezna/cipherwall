@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-08-15
+
+- firmware pipeline: fixed log formatting
+
 ## [Unreleased] - 2021-04-12
 
 - checkpoint resume: pinned sampling window
