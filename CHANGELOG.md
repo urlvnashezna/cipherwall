@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-06-11
+
+- monitor: simplified threshold checks
+
 ## [Unreleased] - 2026-08-15
 
 - firmware pipeline: fixed log formatting
