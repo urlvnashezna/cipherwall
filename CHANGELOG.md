@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-11-18
+
+- event bus: refactored sampling window
+
 ## [Unreleased] - 2025-06-11
 
 - monitor: simplified threshold checks
