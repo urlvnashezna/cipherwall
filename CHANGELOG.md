@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-01-11
+
+- dependency pins: extended default values
+
 ## [Unreleased] - 2022-11-18
 
 - event bus: refactored sampling window
