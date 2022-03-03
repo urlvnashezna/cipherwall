@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-10
+
+- heartbeat loop: simplified error messages
+
 ## [Unreleased] - 2021-01-11
 
 - dependency pins: extended default values
