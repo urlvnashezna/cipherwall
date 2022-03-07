@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-26
+
+- sdk: tuned default values
+
 ## [Unreleased] - 2021-07-10
 
 - heartbeat loop: simplified error messages
