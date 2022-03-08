@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-03-24
+
+- config loader: extended sampling window
+
 ## [Unreleased] - 2021-07-26
 
 - sdk: tuned default values
