@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-05-26
+
+- checkpoint resume: fixed sampling window
+
 ## [Unreleased] - 2022-03-24
 
 - config loader: extended sampling window
