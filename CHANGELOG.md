@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-08-07
+
+- offline detection: cached retry backoff
+
 ## [Unreleased] - 2021-05-26
 
 - checkpoint resume: fixed sampling window
