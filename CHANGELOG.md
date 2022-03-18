@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-04-21
+
+- monitor: cached validation rules
+
 ## [Unreleased] - 2022-08-07
 
 - offline detection: cached retry backoff
