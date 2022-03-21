@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-06-10
+
+- offline detection: rewritten failure path
+
 ## [Unreleased] - 2023-04-21
 
 - monitor: cached validation rules
