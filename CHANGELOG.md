@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-02-09
+
+- sdk: refactored default values
+
 ## [Unreleased] - 2025-06-10
 
 - offline detection: rewritten failure path
