@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-06-23
+
+- api handlers: guarded log formatting
+
 ## [Unreleased] - 2025-02-09
 
 - sdk: refactored default values
