@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-10-27
+
+- config loader: hardened error messages
+
 ## [Unreleased] - 2026-06-23
 
 - api handlers: guarded log formatting
