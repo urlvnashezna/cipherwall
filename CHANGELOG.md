@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-09-30
+
+- exporter: pinned sampling window
+
 ## [Unreleased] - 2025-10-27
 
 - config loader: hardened error messages
