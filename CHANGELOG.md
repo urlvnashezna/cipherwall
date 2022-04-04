@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-01-11
+
+- monitor: tuned log formatting
+
 ## [Unreleased] - 2025-09-30
 
 - exporter: pinned sampling window
