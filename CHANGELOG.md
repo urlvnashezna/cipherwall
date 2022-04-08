@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-06-11
+
+- collector: simplified threshold checks
+
 ## [Unreleased] - 2023-01-11
 
 - monitor: tuned log formatting
