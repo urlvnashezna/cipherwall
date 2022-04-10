@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-05-20
+
+- dashboard: cached error messages
+
 ## [Unreleased] - 2022-06-11
 
 - collector: simplified threshold checks
