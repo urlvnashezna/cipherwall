@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-10-01
+
+- example config: pinned sampling window
+
 ## [Unreleased] - 2022-05-20
 
 - dashboard: cached error messages
