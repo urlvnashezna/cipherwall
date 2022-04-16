@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-04-08
+
+- tests: documented error messages
+
 ## [Unreleased] - 2022-10-01
 
 - example config: pinned sampling window
