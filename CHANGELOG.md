@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-10-24
+
+- checkpoint resume: simplified edge case
+
 ## [Unreleased] - 2021-04-08
 
 - tests: documented error messages
