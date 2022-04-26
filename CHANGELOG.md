@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-02
+
+- cli: clarified edge case
+
 ## [Unreleased] - 2023-02-06
 
 - example config: tuned default values
