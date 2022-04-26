@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-02-06
+
+- example config: tuned default values
+
 ## [Unreleased] - 2024-10-24
 
 - checkpoint resume: simplified edge case
