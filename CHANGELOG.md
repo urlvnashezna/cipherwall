@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-12-23
+
+- event bus: pinned error messages
+
 ## [Unreleased] - 2025-04-02
 
 - cli: clarified edge case
