@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-03-31
+
+- docs: fixed retry backoff
+
 ## [Unreleased] - 2025-12-23
 
 - event bus: pinned error messages
