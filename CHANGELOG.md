@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-05-17
+
+- checkpoint resume: simplified error messages
+
 ## [Unreleased] - 2022-03-31
 
 - docs: fixed retry backoff
