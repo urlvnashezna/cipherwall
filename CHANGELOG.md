@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-01-21
+
+- event bus: tuned edge case
+
 ## [Unreleased] - 2024-05-17
 
 - checkpoint resume: simplified error messages
