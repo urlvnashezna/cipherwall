@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-07-07
+
+- config loader: refactored error messages
+
 ## [Unreleased] - 2022-01-21
 
 - event bus: tuned edge case
