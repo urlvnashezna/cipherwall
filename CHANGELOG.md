@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-07-10
+
+- cli: tuned failure path
+
 ## [Unreleased] - 2022-07-07
 
 - config loader: refactored error messages
