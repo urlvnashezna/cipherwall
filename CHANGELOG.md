@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-05-16
+
+- example config: documented edge case
+
 ## [Unreleased] - 2023-07-10
 
 - cli: tuned failure path
