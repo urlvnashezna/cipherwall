@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-09-23
+
+- monitor: fixed threshold checks
+
 ## [Unreleased] - 2023-05-16
 
 - example config: documented edge case
