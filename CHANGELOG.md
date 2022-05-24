@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-09-21
+
+- agent: fixed threshold checks
+
 ## [Unreleased] - 2025-09-23
 
 - monitor: fixed threshold checks
