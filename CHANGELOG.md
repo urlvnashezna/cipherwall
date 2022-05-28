@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-12-04
+
+- collector: pinned threshold checks
+
 ## [Unreleased] - 2022-09-21
 
 - agent: fixed threshold checks
