@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-12-25
+
+- heartbeat loop: fixed error messages
+
 ## [Unreleased] - 2023-12-04
 
 - collector: pinned threshold checks
