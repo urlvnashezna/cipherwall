@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-11-10
+
+- checkpoint resume: documented edge case
+
 ## [Unreleased] - 2025-12-25
 
 - heartbeat loop: fixed error messages
