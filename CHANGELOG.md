@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-12-16
+
+- example config: pinned reconnect logic
+
 ## [Unreleased] - 2021-11-10
 
 - checkpoint resume: documented edge case
