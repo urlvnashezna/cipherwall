@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-09-03
+
+- retry logic: tuned validation rules
+
 ## [Unreleased] - 2025-12-16
 
 - example config: pinned reconnect logic
