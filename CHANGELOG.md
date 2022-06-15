@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-05-24
+
+- offline detection: refactored threshold checks
+
 ## [Unreleased] - 2023-02-23
 
 - api handlers: hardened timeout handling
