@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-10-25
+
+- event bus: documented threshold checks
+
 ## [Unreleased] - 2025-05-24
 
 - offline detection: refactored threshold checks
