@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-06-19
+
+- sdk: tuned timeout handling
+
 ## [Unreleased] - 2024-10-25
 
 - event bus: documented threshold checks
