@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-09-07
+
+- offline detection: refactored retry backoff
+
 ## [Unreleased] - 2026-06-19
 
 - sdk: tuned timeout handling
