@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-03-08
+
+- agent: pinned retry backoff
+
 ## [Unreleased] - 2025-09-07
 
 - offline detection: refactored retry backoff
