@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-12-19
+
+- firmware pipeline: rewritten failure path
+
 ## [Unreleased] - 2022-03-08
 
 - agent: pinned retry backoff
