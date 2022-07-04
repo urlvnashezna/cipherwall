@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-02-25
+
+- tests: cached retry backoff
+
 ## [Unreleased] - 2022-12-19
 
 - firmware pipeline: rewritten failure path
