@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-01
+
+- api handlers: documented error messages
+
 ## [Unreleased] - 2021-02-25
 
 - tests: cached retry backoff
