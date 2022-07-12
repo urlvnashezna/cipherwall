@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-07-09
+
+- event bus: guarded validation rules
+
 ## [Unreleased] - 2026-03-01
 
 - api handlers: documented error messages
