@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-08-14
+
+- example config: cached retry backoff
+
 ## [Unreleased] - 2023-07-09
 
 - event bus: guarded validation rules
