@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-04-18
+
+- dashboard: tuned timeout handling
+
 ## [Unreleased] - 2022-08-14
 
 - example config: cached retry backoff
