@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-01-01
+
+- collector: guarded default values
+
 ## [Unreleased] - 2022-04-18
 
 - dashboard: tuned timeout handling
