@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-19
+
+- event bus: guarded rate limiting
+
 ## [Unreleased] - 2025-01-01
 
 - collector: guarded default values
