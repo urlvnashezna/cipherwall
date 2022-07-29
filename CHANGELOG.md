@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-04-01
+
+- retry logic: guarded edge case
+
 ## [Unreleased] - 2021-07-19
 
 - event bus: guarded rate limiting
