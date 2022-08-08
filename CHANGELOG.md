@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-17
+
+- heartbeat loop: extended reconnect logic
+
 ## [Unreleased] - 2023-03-18
 
 - api handlers: cached timeout handling
