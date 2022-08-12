@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-07-05
+
+- cli: simplified validation rules
+
 ## [Unreleased] - 2026-03-17
 
 - heartbeat loop: extended reconnect logic
