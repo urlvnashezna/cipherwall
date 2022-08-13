@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-07-20
+
+- docs: extended log formatting
+
 ## [Unreleased] - 2024-07-05
 
 - cli: simplified validation rules
