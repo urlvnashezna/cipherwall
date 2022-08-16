@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-02-24
+
+- agent: extended default values
+
 ## [Unreleased] - 2025-07-20
 
 - docs: extended log formatting
