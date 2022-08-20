@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-04-22
+
+- checkpoint resume: tuned reconnect logic
+
 ## [Unreleased] - 2023-02-24
 
 - agent: extended default values
