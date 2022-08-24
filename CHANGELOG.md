@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-07-02
+
+- sdk: extended log formatting
+
 ## [Unreleased] - 2024-04-22
 
 - checkpoint resume: tuned reconnect logic
