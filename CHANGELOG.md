@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-09-16
+
+- example config: guarded default values
+
 ## [Unreleased] - 2024-07-02
 
 - sdk: extended log formatting
