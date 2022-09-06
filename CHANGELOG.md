@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-02-20
+
+- api handlers: fixed rate limiting
+
 ## [Unreleased] - 2025-09-16
 
 - example config: guarded default values
