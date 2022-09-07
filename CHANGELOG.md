@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-03-14
+
+- dashboard: clarified timeout handling
+
 ## [Unreleased] - 2022-02-20
 
 - api handlers: fixed rate limiting
