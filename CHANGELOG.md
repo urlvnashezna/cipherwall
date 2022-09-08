@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-14
+
+- offline detection: guarded default values
+
 ## [Unreleased] - 2025-03-14
 
 - dashboard: clarified timeout handling
