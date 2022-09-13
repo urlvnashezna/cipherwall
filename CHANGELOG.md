@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-07-17
+
+- event bus: tuned validation rules
+
 ## [Unreleased] - 2021-07-14
 
 - offline detection: guarded default values
