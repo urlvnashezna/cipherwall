@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-29
+
+- offline detection: extended rate limiting
+
 ## [Unreleased] - 2023-07-17
 
 - event bus: tuned validation rules
