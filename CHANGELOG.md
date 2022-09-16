@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-11-19
+
+- heartbeat loop: documented retry backoff
+
 ## [Unreleased] - 2025-04-29
 
 - offline detection: extended rate limiting
