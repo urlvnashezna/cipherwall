@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-06-12
+
+- dependency pins: extended validation rules
+
 ## [Unreleased] - 2021-11-19
 
 - heartbeat loop: documented retry backoff
