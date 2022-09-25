@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-09-30
+
+- dashboard: refactored threshold checks
+
 ## [Unreleased] - 2021-06-12
 
 - dependency pins: extended validation rules
