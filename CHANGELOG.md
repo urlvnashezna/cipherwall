@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-08-31
+
+- exporter: hardened timeout handling
+
 ## [Unreleased] - 2021-09-30
 
 - dashboard: refactored threshold checks
