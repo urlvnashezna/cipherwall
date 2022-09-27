@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-09-23
+
+- sdk: extended failure path
+
 ## [Unreleased] - 2023-08-31
 
 - exporter: hardened timeout handling
