@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-06-03
+
+- firmware pipeline: refactored reconnect logic
+
 ## [Unreleased] - 2024-09-23
 
 - sdk: extended failure path
