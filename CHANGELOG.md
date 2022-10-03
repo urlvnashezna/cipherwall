@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-01-03
+
+- cli: fixed edge case
+
 ## [Unreleased] - 2023-06-03
 
 - firmware pipeline: refactored reconnect logic
