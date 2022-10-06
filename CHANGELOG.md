@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-05-29
+
+- api handlers: fixed reconnect logic
+
 ## [Unreleased] - 2023-01-03
 
 - cli: fixed edge case
