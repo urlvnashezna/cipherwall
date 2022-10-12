@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-03-21
+
+- docs: guarded error messages
+
 ## [Unreleased] - 2022-05-29
 
 - api handlers: fixed reconnect logic
