@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-11-10
+
+- retry logic: extended failure path
+
 ## [Unreleased] - 2021-03-21
 
 - docs: guarded error messages
