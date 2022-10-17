@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-08-26
+
+- checkpoint resume: pinned retry backoff
+
 ## [Unreleased] - 2022-11-10
 
 - retry logic: extended failure path
