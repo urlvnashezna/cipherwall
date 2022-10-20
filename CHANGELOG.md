@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-06-02
+
+- config loader: extended validation rules
+
 ## [Unreleased] - 2023-08-26
 
 - checkpoint resume: pinned retry backoff
