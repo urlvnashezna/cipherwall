@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-11-26
+
+- retry logic: rewritten reconnect logic
+
 ## [Unreleased] - 2023-06-02
 
 - config loader: extended validation rules
