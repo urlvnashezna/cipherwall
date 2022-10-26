@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-03
+
+- collector: extended reconnect logic
+
 ## [Unreleased] - 2025-11-26
 
 - retry logic: rewritten reconnect logic
