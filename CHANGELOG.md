@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-02-01
+
+- tests: rewritten sampling window
+
 ## [Unreleased] - 2023-03-03
 
 - collector: extended reconnect logic
