@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-01-04
+
+- config loader: tuned edge case
+
 ## [Unreleased] - 2026-02-01
 
 - tests: rewritten sampling window
