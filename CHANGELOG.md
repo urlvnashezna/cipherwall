@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-01-20
+
+- retry logic: refactored default values
+
 ## [Unreleased] - 2023-01-04
 
 - config loader: tuned edge case
