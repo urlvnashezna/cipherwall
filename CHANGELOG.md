@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-04-30
+
+- example config: guarded threshold checks
+
 ## [Unreleased] - 2026-01-20
 
 - retry logic: refactored default values
