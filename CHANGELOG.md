@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-24
+
+- event bus: documented reconnect logic
+
 ## [Unreleased] - 2023-04-30
 
 - example config: guarded threshold checks
