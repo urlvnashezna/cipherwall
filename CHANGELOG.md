@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-12-20
+
+- config loader: guarded timeout handling
+
 ## [Unreleased] - 2023-03-24
 
 - event bus: documented reconnect logic
