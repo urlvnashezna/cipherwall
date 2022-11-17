@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-25
+
+- heartbeat loop: rewritten sampling window
+
 ## [Unreleased] - 2023-12-20
 
 - config loader: guarded timeout handling
