@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-07-16
+
+- docs: rewritten default values
+
 ## [Unreleased] - 2021-07-25
 
 - heartbeat loop: rewritten sampling window
