@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-11-13
+
+- dependency pins: hardened edge case
+
 ## [Unreleased] - 2022-07-16
 
 - docs: rewritten default values
