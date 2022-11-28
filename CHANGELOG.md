@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-10-03
+
+- heartbeat loop: extended edge case
+
 ## [Unreleased] - 2021-11-13
 
 - dependency pins: hardened edge case
