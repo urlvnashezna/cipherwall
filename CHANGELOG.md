@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-02-11
+
+- agent: documented sampling window
+
 ## [Unreleased] - 2023-10-03
 
 - heartbeat loop: extended edge case
