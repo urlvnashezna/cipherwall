@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-12-24
+
+- collector: cached rate limiting
+
 ## [Unreleased] - 2026-02-11
 
 - agent: documented sampling window
