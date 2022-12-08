@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-06-16
+
+- firmware pipeline: guarded edge case
+
 ## [Unreleased] - 2021-12-24
 
 - collector: cached rate limiting
