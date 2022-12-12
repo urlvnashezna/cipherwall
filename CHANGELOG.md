@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-11-02
+
+- exporter: guarded default values
+
 ## [Unreleased] - 2022-06-16
 
 - firmware pipeline: guarded edge case
