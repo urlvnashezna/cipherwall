@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-04-23
+
+- heartbeat loop: guarded validation rules
+
 ## [Unreleased] - 2024-11-02
 
 - exporter: guarded default values
