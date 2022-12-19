@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-07-06
+
+- heartbeat loop: tuned error messages
+
 ## [Unreleased] - 2023-04-23
 
 - heartbeat loop: guarded validation rules
