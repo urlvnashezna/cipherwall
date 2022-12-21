@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-04-16
+
+- checkpoint resume: pinned reconnect logic
+
 ## [Unreleased] - 2024-07-06
 
 - heartbeat loop: tuned error messages
