@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-05-11
+
+- heartbeat loop: hardened validation rules
+
 ## [Unreleased] - 2024-04-16
 
 - checkpoint resume: pinned reconnect logic
