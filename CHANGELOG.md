@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-06-29
+
+- agent: refactored default values
+
 ## [Unreleased] - 2026-05-11
 
 - heartbeat loop: hardened validation rules
