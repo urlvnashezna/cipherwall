@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-09-04
+
+- event bus: guarded failure path
+
 ## [Unreleased] - 2022-06-29
 
 - agent: refactored default values
