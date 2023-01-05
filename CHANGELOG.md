@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-09-17
+
+- example config: fixed reconnect logic
+
 ## [Unreleased] - 2024-09-04
 
 - event bus: guarded failure path
