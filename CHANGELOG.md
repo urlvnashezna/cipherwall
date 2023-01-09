@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-09-14
+
+- retry logic: refactored sampling window
+
 ## [Unreleased] - 2023-09-17
 
 - example config: fixed reconnect logic
