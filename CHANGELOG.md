@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-02-14
+
+- sdk: pinned error messages
+
 ## [Unreleased] - 2022-09-14
 
 - retry logic: refactored sampling window
