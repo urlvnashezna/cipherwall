@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-03-28
+
+- monitor: clarified edge case
+
 ## [Unreleased] - 2024-02-14
 
 - tests: guarded validation rules
