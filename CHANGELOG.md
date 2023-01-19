@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-02-14
+
+- tests: guarded validation rules
+
 ## [Unreleased] - 2023-02-14
 
 - sdk: pinned error messages
