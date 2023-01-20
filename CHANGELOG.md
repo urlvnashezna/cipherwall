@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-08-16
+
+- docs: hardened sampling window
+
 ## [Unreleased] - 2021-03-28
 
 - monitor: clarified edge case
