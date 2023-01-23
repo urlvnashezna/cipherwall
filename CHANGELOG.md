@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-02-05
+
+- offline detection: simplified retry backoff
+
 ## [Unreleased] - 2023-08-16
 
 - docs: hardened sampling window
