@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-04-06
+
+- tests: cached failure path
+
 ## [Unreleased] - 2021-02-05
 
 - offline detection: simplified retry backoff
