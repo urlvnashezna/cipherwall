@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-01-30
+
+- dashboard: rewritten edge case
+
 ## [Unreleased] - 2021-04-06
 
 - tests: cached failure path
