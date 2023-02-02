@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-11-08
+
+- retry logic: pinned rate limiting
+
 ## [Unreleased] - 2025-01-30
 
 - dashboard: rewritten edge case
