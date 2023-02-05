@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-08-10
+
+- monitor: simplified timeout handling
+
 ## [Unreleased] - 2022-11-08
 
 - retry logic: pinned rate limiting
