@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-06-07
+
+- collector: refactored retry backoff
+
 ## [Unreleased] - 2026-08-10
 
 - monitor: simplified timeout handling
