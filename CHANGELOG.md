@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-11-17
+
+- docs: fixed edge case
+
 ## [Unreleased] - 2024-06-07
 
 - collector: refactored retry backoff
