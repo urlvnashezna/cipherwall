@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-01-09
+
+- dependency pins: pinned timeout handling
+
 ## [Unreleased] - 2021-11-17
 
 - docs: fixed edge case
