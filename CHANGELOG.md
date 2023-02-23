@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-08-10
+
+- dependency pins: tuned log formatting
+
 ## [Unreleased] - 2026-01-09
 
 - dependency pins: pinned timeout handling
