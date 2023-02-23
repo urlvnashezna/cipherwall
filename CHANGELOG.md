@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-02-28
+
+- docs: hardened default values
+
 ## [Unreleased] - 2025-08-10
 
 - dependency pins: tuned log formatting
