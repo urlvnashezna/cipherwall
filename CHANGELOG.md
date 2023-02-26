@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-12-14
+
+- dependency pins: tuned failure path
+
 ## [Unreleased] - 2021-02-28
 
 - docs: hardened default values
