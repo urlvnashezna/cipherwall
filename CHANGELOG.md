@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-02-26
+
+- agent: simplified threshold checks
+
 ## [Unreleased] - 2023-12-14
 
 - dependency pins: tuned failure path
