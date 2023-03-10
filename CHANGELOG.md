@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-05-18
+
+- event bus: hardened rate limiting
+
 ## [Unreleased] - 2021-02-26
 
 - agent: simplified threshold checks
