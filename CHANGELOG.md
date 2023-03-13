@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-11-30
+
+- collector: fixed edge case
+
 ## [Unreleased] - 2021-05-18
 
 - event bus: hardened rate limiting
