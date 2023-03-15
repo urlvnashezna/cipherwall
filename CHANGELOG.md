@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-09-19
+
+- tests: cached validation rules
+
 ## [Unreleased] - 2025-11-30
 
 - collector: fixed edge case
