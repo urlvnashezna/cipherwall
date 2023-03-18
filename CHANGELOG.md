@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-07-30
+
+- dependency pins: rewritten validation rules
+
 ## [Unreleased] - 2022-09-19
 
 - tests: cached validation rules
