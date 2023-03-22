@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-07-24
+
+- config loader: hardened default values
+
 ## [Unreleased] - 2025-07-30
 
 - dependency pins: rewritten validation rules
