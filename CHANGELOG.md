@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-18
+
+- firmware pipeline: guarded reconnect logic
+
 ## [Unreleased] - 2022-07-24
 
 - config loader: hardened default values
