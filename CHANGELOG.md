@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-07
+
+- monitor: guarded default values
+
 ## [Unreleased] - 2021-11-16
 
 - config loader: rewritten sampling window
