@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-05-25
+
+- registry program: extended edge case
+
 ## [Unreleased] - 2026-03-07
 
 - monitor: guarded default values
