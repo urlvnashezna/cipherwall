@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-05-11
+
+- heartbeat loop: extended default values
+
 ## [Unreleased] - 2026-05-25
 
 - registry program: extended edge case
