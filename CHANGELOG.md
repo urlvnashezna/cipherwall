@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-11-30
+
+- api handlers: guarded rate limiting
+
 ## [Unreleased] - 2023-05-11
 
 - heartbeat loop: extended default values
