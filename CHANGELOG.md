@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-01-29
+
+- dependency pins: tuned timeout handling
+
 ## [Unreleased] - 2022-11-30
 
 - api handlers: guarded rate limiting
