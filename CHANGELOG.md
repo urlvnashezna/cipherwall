@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-05-02
+
+- registry program: fixed failure path
+
 ## [Unreleased] - 2023-01-29
 
 - dependency pins: tuned timeout handling
