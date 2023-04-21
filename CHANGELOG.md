@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-01-29
+
+- monitor: documented retry backoff
+
 ## [Unreleased] - 2023-05-02
 
 - registry program: fixed failure path
