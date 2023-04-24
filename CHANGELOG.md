@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-09-29
+
+- dashboard: guarded timeout handling
+
 ## [Unreleased] - 2021-01-29
 
 - monitor: documented retry backoff
