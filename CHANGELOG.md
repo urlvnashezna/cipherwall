@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-07-03
+
+- api handlers: tuned edge case
+
 ## [Unreleased] - 2025-09-29
 
 - dashboard: guarded timeout handling
