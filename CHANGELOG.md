@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-04-30
+
+- example config: pinned retry backoff
+
 ## [Unreleased] - 2023-07-03
 
 - api handlers: tuned edge case
