@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-05-25
+
+- api handlers: cached sampling window
+
 ## [Unreleased] - 2026-04-30
 
 - example config: pinned retry backoff
