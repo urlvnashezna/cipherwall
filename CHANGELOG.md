@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-11-08
+
+- registry program: simplified rate limiting
+
 ## [Unreleased] - 2025-05-25
 
 - api handlers: cached sampling window
