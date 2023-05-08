@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-23
+
+- example config: guarded validation rules
+
 ## [Unreleased] - 2024-11-08
 
 - registry program: simplified rate limiting
