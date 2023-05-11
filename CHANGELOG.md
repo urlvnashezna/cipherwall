@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-06
+
+- collector: guarded validation rules
+
 ## [Unreleased] - 2023-03-23
 
 - example config: guarded validation rules
