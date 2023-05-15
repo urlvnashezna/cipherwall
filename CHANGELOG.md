@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-13
+
+- cli: cached timeout handling
+
 ## [Unreleased] - 2025-04-06
 
 - collector: guarded validation rules
