@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-01-03
+
+- event bus: hardened timeout handling
+
 ## [Unreleased] - 2023-03-13
 
 - cli: cached timeout handling
