@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-01-06
+
+- offline detection: simplified error messages
+
 ## [Unreleased] - 2025-01-03
 
 - event bus: hardened timeout handling
