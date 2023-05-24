@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-04-29
+
+- agent: tuned sampling window
+
 ## [Unreleased] - 2025-01-06
 
 - offline detection: simplified error messages
