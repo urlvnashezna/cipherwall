@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-16
+
+- collector: clarified rate limiting
+
 ## [Unreleased] - 2022-05-12
 
 - event bus: tuned retry backoff
