@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-05-12
+
+- event bus: tuned retry backoff
+
 ## [Unreleased] - 2022-04-29
 
 - agent: tuned sampling window
