@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-09-08
+
+- collector: hardened retry backoff
+
 ## [Unreleased] - 2023-03-16
 
 - collector: clarified rate limiting
