@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-09-12
+
+- firmware pipeline: documented rate limiting
+
 ## [Unreleased] - 2025-09-08
 
 - collector: hardened retry backoff
