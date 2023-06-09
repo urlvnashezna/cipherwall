@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-06-19
+
+- dashboard: tuned retry backoff
+
 ## [Unreleased] - 2022-09-12
 
 - firmware pipeline: documented rate limiting
