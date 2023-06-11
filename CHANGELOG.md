@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-09-27
+
+- sdk: cached edge case
+
 ## [Unreleased] - 2025-06-19
 
 - dashboard: tuned retry backoff
