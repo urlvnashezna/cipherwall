@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-11-14
+
+- heartbeat loop: extended failure path
+
 ## [Unreleased] - 2024-09-27
 
 - sdk: cached edge case
