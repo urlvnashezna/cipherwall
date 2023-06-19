@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-02-16
+
+- tests: documented threshold checks
+
 ## [Unreleased] - 2025-11-14
 
 - heartbeat loop: extended failure path
