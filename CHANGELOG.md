@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-06-14
+
+- config loader: clarified default values
+
 ## [Unreleased] - 2024-02-16
 
 - tests: documented threshold checks
