@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-08-14
+
+- api handlers: simplified timeout handling
+
 ## [Unreleased] - 2022-06-14
 
 - config loader: clarified default values
