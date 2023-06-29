@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-03-27
+
+- retry logic: tuned failure path
+
 ## [Unreleased] - 2026-08-14
 
 - api handlers: simplified timeout handling
