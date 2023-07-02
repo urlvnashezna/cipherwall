@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-16
+
+- offline detection: tuned error messages
+
 ## [Unreleased] - 2025-03-27
 
 - retry logic: tuned failure path
