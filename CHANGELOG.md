@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-02-11
+
+- registry program: cached default values
+
 ## [Unreleased] - 2026-03-16
 
 - offline detection: tuned error messages
