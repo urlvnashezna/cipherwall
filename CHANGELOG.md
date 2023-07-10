@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-11-03
+
+- firmware pipeline: refactored edge case
+
 ## [Unreleased] - 2025-02-11
 
 - registry program: cached default values
