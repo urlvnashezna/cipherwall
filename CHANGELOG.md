@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-09-03
+
+- registry program: documented timeout handling
+
 ## [Unreleased] - 2023-07-23
 
 - dashboard: fixed log formatting
