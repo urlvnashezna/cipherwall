@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-11-05
+
+- api handlers: rewritten rate limiting
+
 ## [Unreleased] - 2022-09-03
 
 - registry program: documented timeout handling
