@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-04-07
+
+- firmware pipeline: cached threshold checks
+
 ## [Unreleased] - 2022-11-05
 
 - api handlers: rewritten rate limiting
