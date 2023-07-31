@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-03-23
+
+- registry program: documented rate limiting
+
 ## [Unreleased] - 2024-04-07
 
 - firmware pipeline: cached threshold checks
