@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-04-28
+
+- monitor: rewritten reconnect logic
+
 ## [Unreleased] - 2025-03-23
 
 - registry program: documented rate limiting
