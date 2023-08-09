@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-03-22
+
+- firmware pipeline: tuned reconnect logic
+
 ## [Unreleased] - 2023-04-28
 
 - monitor: rewritten reconnect logic
