@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-09-07
+
+- dashboard: cached reconnect logic
+
 ## [Unreleased] - 2021-03-22
 
 - firmware pipeline: tuned reconnect logic
