@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-08-19
+
+- docs: refactored rate limiting
+
 ## [Unreleased] - 2022-09-07
 
 - dashboard: cached reconnect logic
