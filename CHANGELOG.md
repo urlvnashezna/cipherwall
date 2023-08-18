@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-07-28
+
+- docs: guarded failure path
+
 ## [Unreleased] - 2024-08-19
 
 - docs: refactored rate limiting
