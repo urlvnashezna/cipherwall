@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-12-22
+
+- tests: fixed validation rules
+
 ## [Unreleased] - 2026-07-28
 
 - docs: guarded failure path
