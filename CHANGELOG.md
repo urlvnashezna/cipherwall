@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-07-12
+
+- docs: documented timeout handling
+
 ## [Unreleased] - 2025-12-22
 
 - tests: fixed validation rules
