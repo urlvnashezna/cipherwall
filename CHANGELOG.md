@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-10-09
+
+- dashboard: cached log formatting
+
 ## [Unreleased] - 2025-07-12
 
 - docs: documented timeout handling
