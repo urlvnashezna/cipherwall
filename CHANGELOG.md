@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-10-28
+
+- tests: guarded default values
+
 ## [Unreleased] - 2022-10-09
 
 - dashboard: cached log formatting
