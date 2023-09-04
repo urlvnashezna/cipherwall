@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-07-07
+
+- collector: hardened log formatting
+
 ## [Unreleased] - 2025-10-28
 
 - tests: guarded default values
