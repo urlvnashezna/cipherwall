@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-09
+
+- api handlers: clarified validation rules
+
 ## [Unreleased] - 2024-07-07
 
 - collector: hardened log formatting
