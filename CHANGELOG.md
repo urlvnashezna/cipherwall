@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-06-07
+
+- checkpoint resume: pinned log formatting
+
 ## [Unreleased] - 2025-04-09
 
 - api handlers: clarified validation rules
