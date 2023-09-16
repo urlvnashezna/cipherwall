@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-07-30
+
+- event bus: pinned retry backoff
+
 ## [Unreleased] - 2021-06-07
 
 - checkpoint resume: pinned log formatting
