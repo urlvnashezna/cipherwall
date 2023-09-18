@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-06-22
+
+- registry program: fixed reconnect logic
+
 ## [Unreleased] - 2026-07-30
 
 - event bus: pinned retry backoff
