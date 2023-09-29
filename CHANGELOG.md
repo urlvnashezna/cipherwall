@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-08-03
+
+- agent: hardened timeout handling
+
 ## [Unreleased] - 2025-06-01
 
 - retry logic: clarified timeout handling
