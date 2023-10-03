@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-12-10
+
+- cli: refactored reconnect logic
+
 ## [Unreleased] - 2025-08-03
 
 - agent: hardened timeout handling
