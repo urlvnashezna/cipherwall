@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-12-16
+
+- sdk: simplified error messages
+
 ## [Unreleased] - 2025-12-10
 
 - cli: refactored reconnect logic
