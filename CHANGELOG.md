@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-01-01
+
+- example config: clarified timeout handling
+
 ## [Unreleased] - 2022-12-16
 
 - sdk: simplified error messages
