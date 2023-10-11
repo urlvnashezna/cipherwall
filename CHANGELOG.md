@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-04-11
+
+- docs: clarified retry backoff
+
 ## [Unreleased] - 2024-01-01
 
 - example config: clarified timeout handling
