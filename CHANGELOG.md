@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-12-03
+
+- api handlers: cached edge case
+
 ## [Unreleased] - 2023-04-11
 
 - docs: clarified retry backoff
