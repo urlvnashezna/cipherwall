@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-03-31
+
+- registry program: hardened timeout handling
+
 ## [Unreleased] - 2021-12-03
 
 - api handlers: cached edge case
