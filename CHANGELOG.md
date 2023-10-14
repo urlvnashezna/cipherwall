@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-03-24
+
+- config loader: rewritten failure path
+
 ## [Unreleased] - 2021-03-31
 
 - registry program: hardened timeout handling
