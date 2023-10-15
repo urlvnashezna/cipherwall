@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-03-30
+
+- registry program: documented validation rules
+
 ## [Unreleased] - 2024-03-24
 
 - config loader: rewritten failure path
