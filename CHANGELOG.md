@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-02-15
+
+- event bus: guarded error messages
+
 ## [Unreleased] - 2021-03-30
 
 - registry program: documented validation rules
