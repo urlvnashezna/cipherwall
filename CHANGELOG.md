@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-11-30
+
+- retry logic: documented threshold checks
+
 ## [Unreleased] - 2024-02-15
 
 - event bus: guarded error messages
