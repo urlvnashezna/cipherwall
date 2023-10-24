@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-01-16
+
+- docs: simplified reconnect logic
+
 ## [Unreleased] - 2021-11-30
 
 - retry logic: documented threshold checks
