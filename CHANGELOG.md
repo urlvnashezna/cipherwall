@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-12-11
+
+- tests: clarified retry backoff
+
 ## [Unreleased] - 2025-01-16
 
 - docs: simplified reconnect logic
