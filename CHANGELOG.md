@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-11-23
+
+- docs: cached failure path
+
 ## [Unreleased] - 2023-12-11
 
 - tests: clarified retry backoff
