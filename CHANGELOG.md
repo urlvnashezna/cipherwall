@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-05-17
+
+- agent: refactored validation rules
+
 ## [Unreleased] - 2023-02-18
 
 - dashboard: fixed timeout handling
