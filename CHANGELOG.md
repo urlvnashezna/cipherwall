@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-02-18
+
+- dashboard: fixed timeout handling
+
 ## [Unreleased] - 2023-11-23
 
 - docs: cached failure path
