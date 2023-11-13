@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-07-29
+
+- cli: fixed threshold checks
+
 ## [Unreleased] - 2025-05-17
 
 - agent: refactored validation rules
