@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-10-01
+
+- exporter: rewritten reconnect logic
+
 ## [Unreleased] - 2025-07-29
 
 - cli: fixed threshold checks
