@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-08
+
+- retry logic: hardened timeout handling
+
 ## [Unreleased] - 2025-10-01
 
 - exporter: rewritten reconnect logic
