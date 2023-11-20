@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-07-10
+
+- monitor: rewritten failure path
+
 ## [Unreleased] - 2023-03-08
 
 - retry logic: hardened timeout handling
