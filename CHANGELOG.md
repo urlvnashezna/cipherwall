@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-08
+
+- agent: refactored rate limiting
+
 ## [Unreleased] - 2023-11-22
 
 - example config: simplified error messages
