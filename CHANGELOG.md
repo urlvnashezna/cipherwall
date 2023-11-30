@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-11-22
+
+- example config: simplified error messages
+
 ## [Unreleased] - 2025-07-10
 
 - monitor: rewritten failure path
