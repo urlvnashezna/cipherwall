@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-09-06
+
+- heartbeat loop: guarded reconnect logic
+
 ## [Unreleased] - 2021-07-08
 
 - agent: refactored rate limiting
