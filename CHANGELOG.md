@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-06-07
+
+- agent: rewritten threshold checks
+
 ## [Unreleased] - 2023-09-06
 
 - heartbeat loop: guarded reconnect logic
