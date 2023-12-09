@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-05-14
+
+- monitor: fixed sampling window
+
 ## [Unreleased] - 2025-06-07
 
 - agent: rewritten threshold checks
