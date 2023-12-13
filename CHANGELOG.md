@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-04-14
+
+- docs: rewritten retry backoff
+
 ## [Unreleased] - 2026-05-14
 
 - monitor: fixed sampling window
