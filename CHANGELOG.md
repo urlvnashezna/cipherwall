@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-11-20
+
+- heartbeat loop: fixed retry backoff
+
 ## [Unreleased] - 2024-04-14
 
 - docs: rewritten retry backoff
