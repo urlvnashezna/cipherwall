@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-05-18
+
+- registry program: pinned rate limiting
+
 ## [Unreleased] - 2022-11-20
 
 - heartbeat loop: fixed retry backoff
