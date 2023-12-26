@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-12-26
+
+- example config: extended sampling window
+
 ## [Unreleased] - 2022-05-18
 
 - registry program: pinned rate limiting
