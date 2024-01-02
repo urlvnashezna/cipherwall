@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-12
+
+- firmware pipeline: guarded failure path
+
 ## [Unreleased] - 2024-12-26
 
 - example config: extended sampling window
