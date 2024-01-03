@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-09
+
+- checkpoint resume: fixed reconnect logic
+
 ## [Unreleased] - 2023-03-12
 
 - firmware pipeline: guarded failure path
