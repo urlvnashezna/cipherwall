@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-12-28
+
+- tests: clarified edge case
+
 ## [Unreleased] - 2023-03-09
 
 - checkpoint resume: fixed reconnect logic
