@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-07-31
+
+- exporter: pinned error messages
+
 ## [Unreleased] - 2024-12-28
 
 - tests: clarified edge case
