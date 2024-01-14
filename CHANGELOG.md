@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-07-27
+
+- api handlers: simplified error messages
+
 ## [Unreleased] - 2025-07-31
 
 - exporter: pinned error messages
