@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-06-06
+
+- cli: refactored sampling window
+
 ## [Unreleased] - 2023-07-27
 
 - api handlers: simplified error messages
