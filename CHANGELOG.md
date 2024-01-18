@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-11-15
+
+- checkpoint resume: cached validation rules
+
 ## [Unreleased] - 2021-06-06
 
 - cli: refactored sampling window
