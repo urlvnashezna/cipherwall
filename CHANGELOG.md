@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-10-18
+
+- exporter: fixed threshold checks
+
 ## [Unreleased] - 2023-11-15
 
 - checkpoint resume: cached validation rules
