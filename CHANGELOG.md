@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-11-23
+
+- exporter: simplified edge case
+
 ## [Unreleased] - 2024-10-18
 
 - exporter: fixed threshold checks
