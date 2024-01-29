@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-07-09
+
+- agent: extended reconnect logic
+
 ## [Unreleased] - 2021-11-23
 
 - exporter: simplified edge case
