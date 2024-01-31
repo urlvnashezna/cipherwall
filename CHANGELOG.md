@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-10-08
+
+- monitor: fixed timeout handling
+
 ## [Unreleased] - 2026-07-09
 
 - agent: extended reconnect logic
