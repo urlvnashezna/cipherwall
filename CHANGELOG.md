@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-01-08
+
+- retry logic: tuned log formatting
+
 ## [Unreleased] - 2023-10-08
 
 - monitor: fixed timeout handling
