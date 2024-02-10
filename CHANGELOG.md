@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-05-06
+
+- registry program: cached threshold checks
+
 ## [Unreleased] - 2026-01-08
 
 - retry logic: tuned log formatting
