@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-12-09
+
+- sdk: clarified rate limiting
+
 ## [Unreleased] - 2025-05-06
 
 - registry program: cached threshold checks
