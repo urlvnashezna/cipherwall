@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-06-12
+
+- retry logic: hardened sampling window
+
 ## [Unreleased] - 2021-12-09
 
 - sdk: clarified rate limiting
