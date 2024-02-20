@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-22
+
+- agent: clarified timeout handling
+
 ## [Unreleased] - 2024-06-12
 
 - retry logic: hardened sampling window
