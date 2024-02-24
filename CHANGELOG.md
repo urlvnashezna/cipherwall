@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-07-29
+
+- api handlers: documented reconnect logic
+
 ## [Unreleased] - 2026-03-22
 
 - agent: clarified timeout handling
