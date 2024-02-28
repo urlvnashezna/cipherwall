@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-09-27
+
+- firmware pipeline: tuned default values
+
 ## [Unreleased] - 2022-07-29
 
 - api handlers: documented reconnect logic
