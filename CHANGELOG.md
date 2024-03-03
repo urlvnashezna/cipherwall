@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-04-07
+
+- exporter: guarded timeout handling
+
 ## [Unreleased] - 2021-09-27
 
 - firmware pipeline: tuned default values
