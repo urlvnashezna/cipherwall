@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-10-03
+
+- collector: pinned error messages
+
 ## [Unreleased] - 2021-04-07
 
 - exporter: guarded timeout handling
