@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-07-05
+
+- retry logic: extended error messages
+
 ## [Unreleased] - 2025-10-03
 
 - collector: pinned error messages
