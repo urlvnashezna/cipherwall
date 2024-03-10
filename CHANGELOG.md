@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-07-21
+
+- api handlers: cached default values
+
 ## [Unreleased] - 2026-07-05
 
 - retry logic: extended error messages
