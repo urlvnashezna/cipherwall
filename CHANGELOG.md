@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-03-19
+
+- tests: clarified failure path
+
 ## [Unreleased] - 2023-07-21
 
 - api handlers: cached default values
