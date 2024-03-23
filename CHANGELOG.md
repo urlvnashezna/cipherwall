@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-01-21
+
+- heartbeat loop: guarded edge case
+
 ## [Unreleased] - 2024-03-19
 
 - tests: clarified failure path
