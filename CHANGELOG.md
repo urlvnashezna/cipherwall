@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-30
+
+- docs: guarded threshold checks
+
 ## [Unreleased] - 2024-01-21
 
 - heartbeat loop: guarded edge case
