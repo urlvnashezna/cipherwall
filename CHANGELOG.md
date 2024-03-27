@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-01-22
+
+- registry program: pinned validation rules
+
 ## [Unreleased] - 2023-03-30
 
 - docs: guarded threshold checks
