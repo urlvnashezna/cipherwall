@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-07-09
+
+- tests: documented edge case
+
 ## [Unreleased] - 2022-01-22
 
 - registry program: pinned validation rules
