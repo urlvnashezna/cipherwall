@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-12-26
+
+- monitor: refactored timeout handling
+
 ## [Unreleased] - 2022-07-09
 
 - tests: documented edge case
