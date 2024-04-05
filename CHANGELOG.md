@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-06-01
+
+- tests: simplified sampling window
+
 ## [Unreleased] - 2025-12-26
 
 - monitor: refactored timeout handling
