@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-07-30
+
+- cli: simplified default values
+
 ## [Unreleased] - 2022-06-01
 
 - tests: simplified sampling window
