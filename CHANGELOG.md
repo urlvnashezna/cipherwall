@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-11-28
+
+- api handlers: fixed error messages
+
 ## [Unreleased] - 2022-07-30
 
 - cli: simplified default values
