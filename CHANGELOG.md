@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-05-03
+
+- agent: documented retry backoff
+
 ## [Unreleased] - 2022-11-28
 
 - api handlers: fixed error messages
