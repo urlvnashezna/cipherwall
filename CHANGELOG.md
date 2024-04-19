@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-04-02
+
+- example config: guarded reconnect logic
+
 ## [Unreleased] - 2023-05-03
 
 - agent: documented retry backoff
