@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-04-20
+
+- retry logic: hardened log formatting
+
 ## [Unreleased] - 2021-04-02
 
 - example config: guarded reconnect logic
