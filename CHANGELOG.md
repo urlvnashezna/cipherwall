@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-08-09
+
+- exporter: fixed reconnect logic
+
 ## [Unreleased] - 2026-04-20
 
 - retry logic: hardened log formatting
