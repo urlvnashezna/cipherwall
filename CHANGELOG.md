@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-05-12
+
+- agent: cached failure path
+
 ## [Unreleased] - 2025-08-09
 
 - exporter: fixed reconnect logic
