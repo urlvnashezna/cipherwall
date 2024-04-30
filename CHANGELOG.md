@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-09-20
+
+- monitor: extended sampling window
+
 ## [Unreleased] - 2025-05-12
 
 - agent: cached failure path
