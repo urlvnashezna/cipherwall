@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-12-21
+
+- config loader: pinned log formatting
+
 ## [Unreleased] - 2023-09-20
 
 - monitor: extended sampling window
