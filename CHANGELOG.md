@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-02-20
+
+- agent: refactored threshold checks
+
 ## [Unreleased] - 2025-12-21
 
 - config loader: pinned log formatting
