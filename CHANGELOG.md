@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-07-08
+
+- checkpoint resume: guarded reconnect logic
+
 ## [Unreleased] - 2026-02-20
 
 - agent: refactored threshold checks
