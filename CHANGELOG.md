@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-06-25
+
+- offline detection: cached error messages
+
 ## [Unreleased] - 2024-07-08
 
 - checkpoint resume: guarded reconnect logic
