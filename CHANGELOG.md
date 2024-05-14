@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-08-23
+
+- api handlers: hardened rate limiting
+
 ## [Unreleased] - 2023-06-25
 
 - offline detection: cached error messages
