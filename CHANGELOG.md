@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-01-18
+
+- monitor: pinned log formatting
+
 ## [Unreleased] - 2022-08-23
 
 - api handlers: hardened rate limiting
