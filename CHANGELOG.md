@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-04-19
+
+- agent: rewritten log formatting
+
 ## [Unreleased] - 2025-01-18
 
 - monitor: pinned log formatting
