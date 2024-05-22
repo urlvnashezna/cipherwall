@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-03-26
+
+- heartbeat loop: clarified reconnect logic
+
 ## [Unreleased] - 2026-04-19
 
 - agent: rewritten log formatting
