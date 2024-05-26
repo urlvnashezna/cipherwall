@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-12-06
+
+- docs: tuned validation rules
+
 ## [Unreleased] - 2024-03-26
 
 - heartbeat loop: clarified reconnect logic
