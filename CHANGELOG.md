@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-07-24
+
+- sdk: documented timeout handling
+
 ## [Unreleased] - 2021-12-06
 
 - docs: tuned validation rules
