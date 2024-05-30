@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-02-15
+
+- api handlers: clarified threshold checks
+
 ## [Unreleased] - 2026-07-24
 
 - sdk: documented timeout handling
