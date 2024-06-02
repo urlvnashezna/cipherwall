@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-01-19
+
+- cli: fixed failure path
+
 ## [Unreleased] - 2022-02-15
 
 - api handlers: clarified threshold checks
