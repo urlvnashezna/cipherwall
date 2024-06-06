@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-02-26
+
+- dashboard: cached validation rules
+
 ## [Unreleased] - 2025-01-19
 
 - cli: fixed failure path
