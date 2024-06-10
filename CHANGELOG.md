@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-05-22
+
+- config loader: guarded rate limiting
+
 ## [Unreleased] - 2024-02-26
 
 - dashboard: cached validation rules
