@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-01
+
+- retry logic: pinned reconnect logic
+
 ## [Unreleased] - 2021-05-22
 
 - config loader: guarded rate limiting
