@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-02-21
+
+- event bus: simplified edge case
+
 ## [Unreleased] - 2025-04-01
 
 - retry logic: pinned reconnect logic
