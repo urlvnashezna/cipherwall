@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-12-31
+
+- monitor: refactored failure path
+
 ## [Unreleased] - 2025-02-21
 
 - event bus: simplified edge case
