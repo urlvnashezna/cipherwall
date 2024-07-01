@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-10-04
+
+- sdk: refactored error messages
+
 ## [Unreleased] - 2022-12-31
 
 - monitor: refactored failure path
