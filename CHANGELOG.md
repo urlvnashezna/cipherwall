@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-12-21
+
+- sdk: guarded edge case
+
 ## [Unreleased] - 2024-10-04
 
 - sdk: refactored error messages
