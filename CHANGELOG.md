@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-03-10
+
+- monitor: documented sampling window
+
 ## [Unreleased] - 2022-12-21
 
 - sdk: guarded edge case
