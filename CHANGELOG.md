@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-02-04
+
+- docs: refactored timeout handling
+
 ## [Unreleased] - 2024-03-10
 
 - monitor: documented sampling window
