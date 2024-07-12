@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-11
+
+- offline detection: clarified sampling window
+
 ## [Unreleased] - 2021-02-04
 
 - docs: refactored timeout handling
