@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-03-23
+
+- sdk: fixed retry backoff
+
 ## [Unreleased] - 2026-03-11
 
 - offline detection: clarified sampling window
