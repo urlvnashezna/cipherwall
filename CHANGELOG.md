@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-08-18
+
+- checkpoint resume: cached threshold checks
+
 ## [Unreleased] - 2022-03-23
 
 - sdk: fixed retry backoff
