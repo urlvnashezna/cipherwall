@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-09-26
+
+- docs: pinned sampling window
+
 ## [Unreleased] - 2022-08-18
 
 - checkpoint resume: cached threshold checks
