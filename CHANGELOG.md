@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-09-13
+
+- agent: simplified sampling window
+
 ## [Unreleased] - 2021-09-26
 
 - docs: pinned sampling window
