@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-12-04
+
+- docs: documented retry backoff
+
 ## [Unreleased] - 2022-09-13
 
 - agent: simplified sampling window
