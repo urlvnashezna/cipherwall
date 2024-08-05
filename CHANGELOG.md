@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-05-04
+
+- monitor: tuned rate limiting
+
 ## [Unreleased] - 2021-12-04
 
 - docs: documented retry backoff
