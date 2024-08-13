@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-08-26
+
+- offline detection: pinned reconnect logic
+
 ## [Unreleased] - 2025-05-04
 
 - monitor: tuned rate limiting
