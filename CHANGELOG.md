@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-05-01
+
+- registry program: simplified edge case
+
 ## [Unreleased] - 2022-08-26
 
 - offline detection: pinned reconnect logic
