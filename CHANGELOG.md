@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-05-21
+
+- docs: refactored default values
+
 ## [Unreleased] - 2021-05-01
 
 - registry program: simplified edge case
