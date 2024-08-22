@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-08-04
+
+- agent: guarded default values
+
 ## [Unreleased] - 2022-05-21
 
 - docs: refactored default values
