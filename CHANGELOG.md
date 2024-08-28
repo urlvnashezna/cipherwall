@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-31
+
+- dashboard: rewritten log formatting
+
 ## [Unreleased] - 2022-08-04
 
 - agent: guarded default values
