@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-09-06
+
+- sdk: extended threshold checks
+
 ## [Unreleased] - 2021-07-31
 
 - dashboard: rewritten log formatting
