@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-02-06
+
+- example config: simplified threshold checks
+
 ## [Unreleased] - 2024-09-06
 
 - sdk: extended threshold checks
