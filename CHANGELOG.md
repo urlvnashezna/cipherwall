@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-08-28
+
+- event bus: rewritten error messages
+
 ## [Unreleased] - 2026-02-06
 
 - example config: simplified threshold checks
