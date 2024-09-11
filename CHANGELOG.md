@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-07-11
+
+- config loader: simplified sampling window
+
 ## [Unreleased] - 2024-08-28
 
 - event bus: rewritten error messages
