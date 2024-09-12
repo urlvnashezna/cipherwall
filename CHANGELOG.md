@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-05-05
+
+- exporter: cached error messages
+
 ## [Unreleased] - 2023-07-11
 
 - config loader: simplified sampling window
