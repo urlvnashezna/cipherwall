@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-01-28
+
+- offline detection: fixed edge case
+
 ## [Unreleased] - 2022-05-05
 
 - exporter: cached error messages
