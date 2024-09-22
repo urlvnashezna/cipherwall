@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-05-11
+
+- dependency pins: clarified edge case
+
 ## [Unreleased] - 2023-01-28
 
 - offline detection: fixed edge case
