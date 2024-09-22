@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-09-14
+
+- example config: extended timeout handling
+
 ## [Unreleased] - 2024-05-11
 
 - dependency pins: clarified edge case
