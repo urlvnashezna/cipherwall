@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-10-11
+
+- registry program: refactored reconnect logic
+
 ## [Unreleased] - 2023-09-14
 
 - example config: extended timeout handling
