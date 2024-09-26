@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-05-01
+
+- agent: pinned validation rules
+
 ## [Unreleased] - 2022-10-11
 
 - registry program: refactored reconnect logic
