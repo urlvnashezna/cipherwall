@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-11-09
+
+- config loader: tuned rate limiting
+
 ## [Unreleased] - 2023-05-01
 
 - agent: pinned validation rules
