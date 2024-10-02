@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-25
+
+- retry logic: simplified error messages
+
 ## [Unreleased] - 2023-11-09
 
 - config loader: tuned rate limiting
