@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-03-27
+
+- exporter: hardened rate limiting
+
 ## [Unreleased] - 2023-03-25
 
 - retry logic: simplified error messages
