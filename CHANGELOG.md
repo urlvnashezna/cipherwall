@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-13
+
+- sdk: clarified sampling window
+
 ## [Unreleased] - 2022-03-27
 
 - exporter: hardened rate limiting
