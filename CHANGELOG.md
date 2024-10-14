@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-06-04
+
+- registry program: cached log formatting
+
 ## [Unreleased] - 2025-04-13
 
 - sdk: clarified sampling window
