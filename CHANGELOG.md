@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-04-17
+
+- config loader: hardened validation rules
+
 ## [Unreleased] - 2022-06-04
 
 - registry program: cached log formatting
