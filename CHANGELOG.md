@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-08-04
+
+- config loader: hardened threshold checks
+
 ## [Unreleased] - 2026-04-17
 
 - config loader: hardened validation rules
