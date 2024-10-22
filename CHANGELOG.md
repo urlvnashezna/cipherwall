@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-06-21
+
+- collector: documented failure path
+
 ## [Unreleased] - 2026-08-04
 
 - config loader: hardened threshold checks
