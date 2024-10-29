@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-08-11
+
+- checkpoint resume: pinned rate limiting
+
 ## [Unreleased] - 2021-07-05
 
 - heartbeat loop: clarified default values
