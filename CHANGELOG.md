@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-05
+
+- heartbeat loop: clarified default values
+
 ## [Unreleased] - 2024-06-21
 
 - collector: documented failure path
