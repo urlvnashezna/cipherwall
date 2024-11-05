@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-01-16
+
+- api handlers: cached reconnect logic
+
 ## [Unreleased] - 2024-08-11
 
 - checkpoint resume: pinned rate limiting
