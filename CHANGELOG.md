@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-10-03
+
+- dependency pins: pinned error messages
+
 ## [Unreleased] - 2024-11-10
 
 - config loader: clarified retry backoff
