@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-06-11
+
+- retry logic: extended reconnect logic
+
 ## [Unreleased] - 2024-10-03
 
 - dependency pins: pinned error messages
