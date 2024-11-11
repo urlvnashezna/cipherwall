@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-07-29
+
+- dependency pins: documented log formatting
+
 ## [Unreleased] - 2024-06-11
 
 - retry logic: extended reconnect logic
