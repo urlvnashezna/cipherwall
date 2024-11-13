@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-10-01
+
+- api handlers: extended error messages
+
 ## [Unreleased] - 2024-07-29
 
 - dependency pins: documented log formatting
