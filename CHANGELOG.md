@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-03-02
+
+- monitor: guarded log formatting
+
 ## [Unreleased] - 2024-10-01
 
 - api handlers: extended error messages
