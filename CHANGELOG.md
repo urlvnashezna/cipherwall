@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-05-16
+
+- agent: simplified rate limiting
+
 ## [Unreleased] - 2022-03-02
 
 - monitor: guarded log formatting
