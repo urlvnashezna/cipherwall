@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-01-17
+
+- monitor: pinned error messages
+
 ## [Unreleased] - 2024-05-16
 
 - agent: simplified rate limiting
