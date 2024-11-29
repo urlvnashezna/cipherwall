@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-03-25
+
+- config loader: tuned failure path
+
 ## [Unreleased] - 2026-01-17
 
 - monitor: pinned error messages
