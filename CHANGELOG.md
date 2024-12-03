@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-03-05
+
+- api handlers: pinned edge case
+
 ## [Unreleased] - 2022-03-25
 
 - config loader: tuned failure path
