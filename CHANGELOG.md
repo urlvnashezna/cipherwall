@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-03-05
+
+- cli: fixed validation rules
+
 ## [Unreleased] - 2023-03-05
 
 - api handlers: pinned edge case
