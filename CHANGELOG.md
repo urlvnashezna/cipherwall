@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-09-12
+
+- offline detection: pinned error messages
+
 ## [Unreleased] - 2022-03-05
 
 - cli: fixed validation rules
