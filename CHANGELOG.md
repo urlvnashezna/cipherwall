@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-11-24
+
+- dashboard: documented sampling window
+
 ## [Unreleased] - 2024-09-12
 
 - offline detection: pinned error messages
