@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-03-09
+
+- config loader: extended threshold checks
+
 ## [Unreleased] - 2023-11-24
 
 - dashboard: documented sampling window
