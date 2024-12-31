@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-10-24
+
+- sdk: tuned rate limiting
+
 ## [Unreleased] - 2023-12-21
 
 - dashboard: fixed sampling window
