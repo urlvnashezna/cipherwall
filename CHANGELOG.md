@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-12-21
+
+- dashboard: fixed sampling window
+
 ## [Unreleased] - 2023-06-10
 
 - docs: tuned reconnect logic
