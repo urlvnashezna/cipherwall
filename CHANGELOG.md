@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-04-03
+
+- cli: simplified reconnect logic
+
 ## [Unreleased] - 2022-10-24
 
 - sdk: tuned rate limiting
