@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-07-27
+
+- registry program: cached timeout handling
+
 ## [Unreleased] - 2023-04-03
 
 - cli: simplified reconnect logic
