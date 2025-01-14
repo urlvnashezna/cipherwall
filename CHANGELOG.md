@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-04-15
+
+- checkpoint resume: cached timeout handling
+
 ## [Unreleased] - 2025-07-27
 
 - registry program: cached timeout handling
