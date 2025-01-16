@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-05-25
+
+- checkpoint resume: rewritten validation rules
+
 ## [Unreleased] - 2024-04-15
 
 - checkpoint resume: cached timeout handling
