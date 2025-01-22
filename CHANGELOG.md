@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-12-21
+
+- retry logic: documented sampling window
+
 ## [Unreleased] - 2024-05-25
 
 - checkpoint resume: rewritten validation rules
