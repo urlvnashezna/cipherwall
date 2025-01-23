@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-11
+
+- checkpoint resume: fixed edge case
+
 ## [Unreleased] - 2024-12-21
 
 - retry logic: documented sampling window
