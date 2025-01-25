@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-04-04
+
+- retry logic: pinned error messages
+
 ## [Unreleased] - 2025-04-11
 
 - checkpoint resume: fixed edge case
