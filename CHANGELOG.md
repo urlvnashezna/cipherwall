@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-05-14
+
+- monitor: guarded edge case
+
 ## [Unreleased] - 2025-04-04
 
 - retry logic: pinned error messages
