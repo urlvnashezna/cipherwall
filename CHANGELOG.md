@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2026-06-13
+
+- config loader: cached timeout handling
+
 ## [Unreleased] - 2025-05-14
 
 - monitor: guarded edge case
