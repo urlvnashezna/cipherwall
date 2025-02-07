@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-12-05
+
+- retry logic: hardened edge case
+
 ## [Unreleased] - 2026-06-13
 
 - config loader: cached timeout handling
