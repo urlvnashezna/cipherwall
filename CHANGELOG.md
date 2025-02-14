@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-03-12
+
+- config loader: cached default values
+
 ## [Unreleased] - 2021-12-05
 
 - retry logic: hardened edge case
