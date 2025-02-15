@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-07-10
+
+- tests: simplified reconnect logic
+
 ## [Unreleased] - 2021-03-12
 
 - config loader: cached default values
