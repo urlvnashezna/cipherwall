@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-09-02
+
+- api handlers: fixed log formatting
+
 ## [Unreleased] - 2024-07-10
 
 - tests: simplified reconnect logic
