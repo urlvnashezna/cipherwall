@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-07-18
+
+- dependency pins: refactored failure path
+
 ## [Unreleased] - 2024-09-02
 
 - api handlers: fixed log formatting
