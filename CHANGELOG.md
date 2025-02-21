@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-27
+
+- exporter: tuned timeout handling
+
 ## [Unreleased] - 2023-07-18
 
 - dependency pins: refactored failure path
