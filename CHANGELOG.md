@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-11-04
+
+- example config: rewritten error messages
+
 ## [Unreleased] - 2021-07-27
 
 - exporter: tuned timeout handling
