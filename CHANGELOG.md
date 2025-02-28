@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-09-03
+
+- collector: rewritten retry backoff
+
 ## [Unreleased] - 2024-11-04
 
 - example config: rewritten error messages
