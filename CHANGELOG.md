@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-10-20
+
+- cli: clarified default values
+
 ## [Unreleased] - 2025-09-03
 
 - collector: rewritten retry backoff
