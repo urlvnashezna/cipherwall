@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-11-16
+
+- cli: extended error messages
+
 ## [Unreleased] - 2022-10-20
 
 - cli: clarified default values
