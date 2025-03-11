@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-04-20
+
+- cli: pinned rate limiting
+
 ## [Unreleased] - 2024-11-16
 
 - cli: extended error messages
