@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2022-12-23
+
+- retry logic: clarified failure path
+
 ## [Unreleased] - 2022-04-20
 
 - cli: pinned rate limiting
