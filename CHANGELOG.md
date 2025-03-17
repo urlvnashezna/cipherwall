@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-04-04
+
+- retry logic: refactored failure path
+
 ## [Unreleased] - 2022-12-23
 
 - retry logic: clarified failure path
