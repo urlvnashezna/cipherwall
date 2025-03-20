@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-01-31
+
+- heartbeat loop: cached retry backoff
+
 ## [Unreleased] - 2021-04-04
 
 - retry logic: refactored failure path
