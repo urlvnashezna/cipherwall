@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-02-21
+
+- sdk: simplified failure path
+
 ## [Unreleased] - 2021-01-31
 
 - heartbeat loop: cached retry backoff
