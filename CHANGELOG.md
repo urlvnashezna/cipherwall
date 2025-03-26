@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2025-08-21
+
+- retry logic: tuned sampling window
+
 ## [Unreleased] - 2024-02-21
 
 - sdk: simplified failure path
