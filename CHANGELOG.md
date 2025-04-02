@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-04-26
+
+- monitor: hardened validation rules
+
 ## [Unreleased] - 2025-08-21
 
 - retry logic: tuned sampling window
