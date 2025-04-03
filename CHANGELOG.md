@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2024-01-17
+
+- heartbeat loop: refactored retry backoff
+
 ## [Unreleased] - 2024-04-26
 
 - monitor: hardened validation rules
