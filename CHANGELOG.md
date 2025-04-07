@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-04-26
+
+- dashboard: refactored log formatting
+
 ## [Unreleased] - 2021-07-09
 
 - collector: cached edge case
