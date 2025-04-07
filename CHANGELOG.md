@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2021-07-09
+
+- collector: cached edge case
+
 ## [Unreleased] - 2024-01-17
 
 - heartbeat loop: refactored retry backoff
