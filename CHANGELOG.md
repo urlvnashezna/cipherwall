@@ -1,6 +1,10 @@
 
 
 
+## [Unreleased] - 2023-10-21
+
+- firmware pipeline: cached edge case
+
 ## [Unreleased] - 2023-04-26
 
 - dashboard: refactored log formatting
