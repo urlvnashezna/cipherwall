@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-08-17
+
+- heartbeat loop: simplified edge case
+
 ## [Unreleased] - 2026-03-27
 
 - registry program: hardened failure path
