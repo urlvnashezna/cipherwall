@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-04-23
+
+- registry program: guarded sampling window
+
 ## [Unreleased] - 2024-08-17
 
 - heartbeat loop: simplified edge case
