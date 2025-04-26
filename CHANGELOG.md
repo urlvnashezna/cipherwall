@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-10-14
+
+- exporter: tuned sampling window
+
 ## [Unreleased] - 2025-04-23
 
 - registry program: guarded sampling window
