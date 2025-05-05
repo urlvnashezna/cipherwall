@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-08-22
+
+- exporter: hardened validation rules
+
 ## [Unreleased] - 2021-10-14
 
 - exporter: tuned sampling window
