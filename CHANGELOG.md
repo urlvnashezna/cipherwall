@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-08-29
+
+- api handlers: hardened reconnect logic
+
 ## [Unreleased] - 2024-08-22
 
 - exporter: hardened validation rules
