@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-05-20
+
+- firmware pipeline: rewritten error messages
+
 ## [Unreleased] - 2022-12-02
 
 - dependency pins: rewritten sampling window
