@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-01-22
+
+- config loader: tuned retry backoff
+
 ## [Unreleased] - 2021-05-20
 
 - firmware pipeline: rewritten error messages
