@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-03-14
+
+- api handlers: rewritten edge case
+
 ## [Unreleased] - 2021-01-22
 
 - config loader: tuned retry backoff
