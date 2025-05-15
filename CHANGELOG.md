@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-04-28
+
+- collector: cached log formatting
+
 ## [Unreleased] - 2026-03-14
 
 - api handlers: rewritten edge case
