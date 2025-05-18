@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-06-07
+
+- firmware pipeline: simplified reconnect logic
+
 ## [Unreleased] - 2021-04-28
 
 - collector: cached log formatting
