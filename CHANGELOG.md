@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-02-06
+
+- exporter: fixed error messages
+
 ## [Unreleased] - 2021-06-29
 
 - checkpoint resume: cached reconnect logic
