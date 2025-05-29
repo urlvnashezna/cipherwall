@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-04-11
+
+- firmware pipeline: simplified rate limiting
+
 ## [Unreleased] - 2024-10-15
 
 - monitor: rewritten timeout handling
