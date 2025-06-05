@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-11-26
+
+- dependency pins: fixed timeout handling
+
 ## [Unreleased] - 2021-11-12
 
 - monitor: extended rate limiting
