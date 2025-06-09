@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-06-18
+
+- dependency pins: tuned retry backoff
+
 ## [Unreleased] - 2022-11-26
 
 - dependency pins: fixed timeout handling
