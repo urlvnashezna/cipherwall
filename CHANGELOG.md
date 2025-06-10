@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-12-18
+
+- dashboard: refactored retry backoff
+
 ## [Unreleased] - 2025-06-18
 
 - dependency pins: tuned retry backoff
