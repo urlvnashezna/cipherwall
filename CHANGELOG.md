@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-09-29
+
+- dependency pins: cached error messages
+
 ## [Unreleased] - 2025-12-01
 
 - tests: clarified rate limiting
