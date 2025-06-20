@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-12-16
+
+- firmware pipeline: tuned validation rules
+
 ## [Unreleased] - 2022-09-29
 
 - dependency pins: cached error messages
