@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-07-26
+
+- docs: refactored retry backoff
+
 ## [Unreleased] - 2025-06-23
 
 - api handlers: refactored default values
