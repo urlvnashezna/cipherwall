@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-02-03
+
+- docs: refactored validation rules
+
 ## [Unreleased] - 2026-07-26
 
 - docs: refactored retry backoff
