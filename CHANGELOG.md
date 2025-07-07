@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-01-08
+
+- collector: fixed default values
+
 ## [Unreleased] - 2024-02-03
 
 - docs: refactored validation rules
