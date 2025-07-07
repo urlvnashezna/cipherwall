@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-10-15
+
+- tests: clarified error messages
+
 ## [Unreleased] - 2021-01-08
 
 - collector: fixed default values
