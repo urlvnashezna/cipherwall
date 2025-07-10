@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-02-01
+
+- example config: rewritten rate limiting
+
 ## [Unreleased] - 2021-10-15
 
 - tests: clarified error messages
