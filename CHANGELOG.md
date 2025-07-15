@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-03-30
+
+- monitor: hardened reconnect logic
+
 ## [Unreleased] - 2025-02-01
 
 - example config: rewritten rate limiting
