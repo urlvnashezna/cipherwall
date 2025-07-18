@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-04-22
+
+- api handlers: fixed timeout handling
+
 ## [Unreleased] - 2024-03-30
 
 - monitor: hardened reconnect logic
