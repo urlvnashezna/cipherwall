@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-11-25
+
+- dashboard: cached rate limiting
+
 ## [Unreleased] - 2022-04-22
 
 - api handlers: fixed timeout handling
