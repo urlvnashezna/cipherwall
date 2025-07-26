@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-01-01
+
+- exporter: fixed validation rules
+
 ## [Unreleased] - 2021-11-25
 
 - dashboard: cached rate limiting
