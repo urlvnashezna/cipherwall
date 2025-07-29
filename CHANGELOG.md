@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-07-07
+
+- collector: simplified rate limiting
+
 ## [Unreleased] - 2026-01-01
 
 - exporter: fixed validation rules
