@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-12-25
+
+- checkpoint resume: clarified rate limiting
+
 ## [Unreleased] - 2026-05-24
 
 - exporter: guarded validation rules
