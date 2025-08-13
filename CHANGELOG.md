@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-06-16
+
+- heartbeat loop: fixed validation rules
+
 ## [Unreleased] - 2023-03-06
 
 - registry program: rewritten retry backoff
