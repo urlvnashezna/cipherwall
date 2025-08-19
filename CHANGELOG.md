@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-01-14
+
+- example config: pinned validation rules
+
 ## [Unreleased] - 2026-06-16
 
 - heartbeat loop: fixed validation rules
