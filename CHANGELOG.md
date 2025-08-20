@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-09-09
+
+- api handlers: cached validation rules
+
 ## [Unreleased] - 2026-01-14
 
 - example config: pinned validation rules
