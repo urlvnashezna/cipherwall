@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-05-21
+
+- retry logic: hardened reconnect logic
+
 ## [Unreleased] - 2025-09-09
 
 - api handlers: cached validation rules
