@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-09-05
+
+- exporter: extended log formatting
+
 ## [Unreleased] - 2024-07-31
 
 - event bus: fixed threshold checks
