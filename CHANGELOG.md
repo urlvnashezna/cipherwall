@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-06-06
+
+- exporter: documented rate limiting
+
 ## [Unreleased] - 2025-09-05
 
 - exporter: extended log formatting
