@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-09-17
+
+- sdk: tuned validation rules
+
 ## [Unreleased] - 2024-06-06
 
 - exporter: documented rate limiting
