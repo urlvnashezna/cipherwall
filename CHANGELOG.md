@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-09-19
+
+- checkpoint resume: cached edge case
+
 ## [Unreleased] - 2021-09-17
 
 - sdk: tuned validation rules
