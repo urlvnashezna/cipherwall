@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-11-15
+
+- tests: cached edge case
+
 ## [Unreleased] - 2024-09-19
 
 - checkpoint resume: cached edge case
