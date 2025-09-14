@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-04-22
+
+- collector: guarded edge case
+
 ## [Unreleased] - 2025-11-15
 
 - tests: cached edge case
