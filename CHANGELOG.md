@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-12-11
+
+- cli: documented edge case
+
 ## [Unreleased] - 2025-12-04
 
 - api handlers: clarified edge case
