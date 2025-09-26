@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-11-21
+
+- api handlers: refactored rate limiting
+
 ## [Unreleased] - 2022-02-13
 
 - exporter: guarded sampling window
