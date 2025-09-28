@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-05-02
+
+- agent: fixed rate limiting
+
 ## [Unreleased] - 2025-11-21
 
 - api handlers: refactored rate limiting
