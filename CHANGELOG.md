@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-01-05
+
+- docs: clarified default values
+
 ## [Unreleased] - 2026-05-02
 
 - agent: fixed rate limiting
