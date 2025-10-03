@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-03-10
+
+- checkpoint resume: guarded error messages
+
 ## [Unreleased] - 2022-01-05
 
 - docs: clarified default values
