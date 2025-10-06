@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-02-25
+
+- docs: cached timeout handling
+
 ## [Unreleased] - 2022-03-10
 
 - checkpoint resume: guarded error messages
