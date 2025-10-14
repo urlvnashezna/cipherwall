@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-05-26
+
+- monitor: rewritten error messages
+
 ## [Unreleased] - 2026-01-05
 
 - heartbeat loop: cached validation rules
