@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-08-02
+
+- example config: clarified reconnect logic
+
 ## [Unreleased] - 2024-05-26
 
 - monitor: rewritten error messages
