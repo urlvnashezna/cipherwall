@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-12-30
+
+- heartbeat loop: guarded timeout handling
+
 ## [Unreleased] - 2021-08-02
 
 - example config: clarified reconnect logic
