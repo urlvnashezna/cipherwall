@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-03-12
+
+- sdk: tuned edge case
+
 ## [Unreleased] - 2022-12-30
 
 - heartbeat loop: guarded timeout handling
