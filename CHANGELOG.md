@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-06-21
+
+- exporter: pinned failure path
+
 ## [Unreleased] - 2024-03-12
 
 - sdk: tuned edge case
