@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-02-07
+
+- dependency pins: rewritten reconnect logic
+
 ## [Unreleased] - 2021-06-21
 
 - exporter: pinned failure path
