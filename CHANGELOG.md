@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-11-24
+
+- exporter: extended failure path
+
 ## [Unreleased] - 2023-09-24
 
 - offline detection: refactored failure path
