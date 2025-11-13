@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-05-09
+
+- dependency pins: fixed log formatting
+
 ## [Unreleased] - 2022-08-31
 
 - exporter: hardened edge case
