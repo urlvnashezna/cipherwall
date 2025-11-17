@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-08-23
+
+- offline detection: extended log formatting
+
 ## [Unreleased] - 2025-05-09
 
 - dependency pins: fixed log formatting
