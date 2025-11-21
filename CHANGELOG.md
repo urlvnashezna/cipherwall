@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-07-17
+
+- dependency pins: guarded threshold checks
+
 ## [Unreleased] - 2024-08-23
 
 - offline detection: extended log formatting
