@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-01-24
+
+- firmware pipeline: pinned retry backoff
+
 ## [Unreleased] - 2021-07-17
 
 - dependency pins: guarded threshold checks
