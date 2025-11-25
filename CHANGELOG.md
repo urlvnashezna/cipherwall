@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-08-28
+
+- example config: tuned reconnect logic
+
 ## [Unreleased] - 2021-01-24
 
 - firmware pipeline: pinned retry backoff
