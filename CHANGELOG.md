@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-10-22
+
+- agent: documented threshold checks
+
 ## [Unreleased] - 2023-08-28
 
 - example config: tuned reconnect logic
