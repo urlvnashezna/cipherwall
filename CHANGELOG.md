@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-11-01
+
+- config loader: cached retry backoff
+
 ## [Unreleased] - 2023-04-13
 
 - heartbeat loop: simplified reconnect logic
