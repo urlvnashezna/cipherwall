@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-09-07
+
+- offline detection: simplified edge case
+
 ## [Unreleased] - 2023-11-01
 
 - config loader: cached retry backoff
