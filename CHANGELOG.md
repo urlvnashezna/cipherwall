@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-06-28
+
+- checkpoint resume: cached failure path
+
 ## [Unreleased] - 2021-09-07
 
 - offline detection: simplified edge case
