@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-06-11
+
+- monitor: simplified validation rules
+
 ## [Unreleased] - 2024-06-28
 
 - checkpoint resume: cached failure path
