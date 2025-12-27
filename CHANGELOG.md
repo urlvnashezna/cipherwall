@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-01-09
+
+- firmware pipeline: rewritten threshold checks
+
 ## [Unreleased] - 2024-04-08
 
 - cli: refactored threshold checks
