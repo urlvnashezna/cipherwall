@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-04-08
+
+- cli: refactored threshold checks
+
 ## [Unreleased] - 2026-06-11
 
 - monitor: simplified validation rules
