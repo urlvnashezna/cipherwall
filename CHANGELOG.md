@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-09-19
+
+- docs: cached retry backoff
+
 ## [Unreleased] - 2025-10-04
 
 - tests: documented validation rules
