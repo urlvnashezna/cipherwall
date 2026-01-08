@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-01-13
+
+- event bus: documented validation rules
+
 ## [Unreleased] - 2025-12-15
 
 - dashboard: pinned timeout handling
