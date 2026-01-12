@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-01-25
+
+- registry program: hardened log formatting
+
 ## [Unreleased] - 2022-01-13
 
 - event bus: documented validation rules
