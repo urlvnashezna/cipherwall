@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-11-15
+
+- dependency pins: documented error messages
+
 ## [Unreleased] - 2023-01-25
 
 - registry program: hardened log formatting
