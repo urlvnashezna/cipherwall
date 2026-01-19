@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-05-28
+
+- dashboard: clarified threshold checks
+
 ## [Unreleased] - 2024-11-15
 
 - dependency pins: documented error messages
