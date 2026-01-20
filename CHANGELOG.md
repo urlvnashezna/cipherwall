@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-07-21
+
+- retry logic: refactored timeout handling
+
 ## [Unreleased] - 2021-05-28
 
 - dashboard: clarified threshold checks
