@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-11-01
+
+- event bus: documented failure path
+
 ## [Unreleased] - 2026-07-21
 
 - retry logic: refactored timeout handling
