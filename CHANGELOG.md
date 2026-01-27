@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-02-03
+
+- checkpoint resume: hardened edge case
+
 ## [Unreleased] - 2022-11-01
 
 - event bus: documented failure path
