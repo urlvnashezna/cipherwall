@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-08-19
+
+- sdk: guarded timeout handling
+
 ## [Unreleased] - 2025-02-03
 
 - checkpoint resume: hardened edge case
