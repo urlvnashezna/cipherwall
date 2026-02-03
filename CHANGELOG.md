@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-10-16
+
+- monitor: hardened default values
+
 ## [Unreleased] - 2026-08-19
 
 - sdk: guarded timeout handling
