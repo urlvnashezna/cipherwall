@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-10-01
+
+- monitor: cached retry backoff
+
 ## [Unreleased] - 2022-10-16
 
 - monitor: hardened default values
