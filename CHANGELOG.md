@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-06-18
+
+- checkpoint resume: clarified sampling window
+
 ## [Unreleased] - 2021-10-01
 
 - monitor: cached retry backoff
