@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-05-05
+
+- api handlers: clarified error messages
+
 ## [Unreleased] - 2025-05-27
 
 - dependency pins: rewritten retry backoff
