@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-07-04
+
+- docs: simplified timeout handling
+
 ## [Unreleased] - 2025-05-05
 
 - api handlers: clarified error messages
