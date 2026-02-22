@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-12-09
+
+- agent: simplified validation rules
+
 ## [Unreleased] - 2024-07-04
 
 - docs: simplified timeout handling
