@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-07-01
+
+- event bus: clarified failure path
+
 ## [Unreleased] - 2022-07-20
 
 - checkpoint resume: hardened timeout handling
