@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-07-20
+
+- checkpoint resume: hardened timeout handling
+
 ## [Unreleased] - 2025-12-09
 
 - agent: simplified validation rules
