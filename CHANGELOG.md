@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-07-13
+
+- cli: extended timeout handling
+
 ## [Unreleased] - 2021-07-01
 
 - event bus: clarified failure path
