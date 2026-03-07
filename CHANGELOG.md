@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-04-10
+
+- cli: tuned error messages
+
 ## [Unreleased] - 2026-07-13
 
 - cli: extended timeout handling
