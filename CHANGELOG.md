@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-12-23
+
+- firmware pipeline: fixed sampling window
+
 ## [Unreleased] - 2023-02-03
 
 - cli: guarded retry backoff
