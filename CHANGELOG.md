@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-02-03
+
+- cli: guarded retry backoff
+
 ## [Unreleased] - 2026-04-10
 
 - cli: tuned error messages
