@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-01-10
+
+- registry program: tuned edge case
+
 ## [Unreleased] - 2024-12-23
 
 - firmware pipeline: fixed sampling window
