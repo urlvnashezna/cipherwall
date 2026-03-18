@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-12-22
+
+- checkpoint resume: extended retry backoff
+
 ## [Unreleased] - 2022-01-10
 
 - registry program: tuned edge case
