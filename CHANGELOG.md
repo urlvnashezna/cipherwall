@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-05-17
+
+- sdk: hardened default values
+
 ## [Unreleased] - 2021-12-22
 
 - checkpoint resume: extended retry backoff
