@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-06-24
+
+- offline detection: guarded rate limiting
+
 ## [Unreleased] - 2022-05-17
 
 - sdk: hardened default values
