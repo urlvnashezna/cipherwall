@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-11-05
+
+- registry program: extended rate limiting
+
 ## [Unreleased] - 2026-03-23
 
 - firmware pipeline: tuned error messages
