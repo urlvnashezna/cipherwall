@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-03-23
+
+- firmware pipeline: tuned error messages
+
 ## [Unreleased] - 2022-06-24
 
 - offline detection: guarded rate limiting
