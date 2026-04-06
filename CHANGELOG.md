@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-07-08
+
+- agent: cached edge case
+
 ## [Unreleased] - 2024-11-05
 
 - registry program: extended rate limiting
