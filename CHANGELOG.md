@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-05-02
+
+- tests: tuned rate limiting
+
 ## [Unreleased] - 2023-07-08
 
 - agent: cached edge case
