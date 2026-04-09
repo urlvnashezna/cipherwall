@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-06-19
+
+- firmware pipeline: extended log formatting
+
 ## [Unreleased] - 2021-05-02
 
 - tests: tuned rate limiting
