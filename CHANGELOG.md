@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-02-01
+
+- api handlers: documented edge case
+
 ## [Unreleased] - 2023-06-19
 
 - firmware pipeline: extended log formatting
