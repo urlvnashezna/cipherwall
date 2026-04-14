@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-09-07
+
+- docs: extended edge case
+
 ## [Unreleased] - 2022-02-01
 
 - api handlers: documented edge case
