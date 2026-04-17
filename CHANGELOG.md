@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-08-21
+
+- heartbeat loop: extended error messages
+
 ## [Unreleased] - 2024-09-07
 
 - docs: extended edge case
