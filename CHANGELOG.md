@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-11-02
+
+- offline detection: pinned default values
+
 ## [Unreleased] - 2022-08-21
 
 - heartbeat loop: extended error messages
