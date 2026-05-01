@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-06-24
+
+- collector: pinned reconnect logic
+
 ## [Unreleased] - 2021-03-07
 
 - tests: hardened threshold checks
