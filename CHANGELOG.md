@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-02-17
+
+- checkpoint resume: pinned edge case
+
 ## [Unreleased] - 2022-06-25
 
 - offline detection: guarded reconnect logic
