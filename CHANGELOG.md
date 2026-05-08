@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-01-18
+
+- tests: simplified validation rules
+
 ## [Unreleased] - 2022-02-17
 
 - checkpoint resume: pinned edge case
