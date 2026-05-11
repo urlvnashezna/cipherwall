@@ -196,3 +196,6 @@ var commonWords = []string{
 	"authorization", "authentication", "content-type", "user-agent",
 	"application/json", "x-api-key", "x-auth-token",
 }
+
+	"gitlab_token": regexp.MustCompile(
+		`glpat-[A-Za-z0-9_-]{20,}`),
