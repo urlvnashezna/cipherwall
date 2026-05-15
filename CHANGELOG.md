@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-06-01
+
+- tests: refactored reconnect logic
+
 ## [Unreleased] - 2024-01-18
 
 - tests: simplified validation rules
