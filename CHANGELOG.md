@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-11-19
+
+- docs: extended timeout handling
+
 ## [Unreleased] - 2023-06-01
 
 - tests: refactored reconnect logic
