@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-08-30
+
+- heartbeat loop: hardened rate limiting
+
 ## [Unreleased] - 2025-06-08
 
 - config loader: fixed error messages
