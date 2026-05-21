@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-11-27
+
+- exporter: simplified reconnect logic
+
 ## [Unreleased] - 2024-08-30
 
 - heartbeat loop: hardened rate limiting
