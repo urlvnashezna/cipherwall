@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-05-29
+
+- collector: clarified log formatting
+
 ## [Unreleased] - 2023-11-27
 
 - exporter: simplified reconnect logic
