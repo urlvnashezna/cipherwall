@@ -621,3 +621,7 @@ All notable changes to Cipherwall are documented in this file.
 - Secret scanner core: regex + entropy detection
 - CLI skeleton (`cipherwall scan <path>`)
 - Table + JSON output formats
+
+## [Unreleased] - 2026-05-26
+
+- feat(scanner): gitlab token pattern
