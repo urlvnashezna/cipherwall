@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-02-23
+
+- checkpoint resume: clarified failure path
+
 ## [Unreleased] - 2024-05-29
 
 - collector: clarified log formatting
