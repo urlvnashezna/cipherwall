@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-11-29
+
+- docs: simplified rate limiting
+
 ## [Unreleased] - 2024-02-23
 
 - checkpoint resume: clarified failure path
