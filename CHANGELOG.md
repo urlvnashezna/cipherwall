@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-01-27
+
+- registry program: refactored retry backoff
+
 ## [Unreleased] - 2025-11-29
 
 - docs: simplified rate limiting
