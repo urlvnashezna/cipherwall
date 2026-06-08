@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-10-28
+
+- registry program: refactored validation rules
+
 ## [Unreleased] - 2022-01-27
 
 - registry program: refactored retry backoff
