@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-08-04
+
+- event bus: pinned timeout handling
+
 ## [Unreleased] - 2022-10-28
 
 - registry program: refactored validation rules
