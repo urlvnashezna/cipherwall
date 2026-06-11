@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-02-05
+
+- event bus: rewritten default values
+
 ## [Unreleased] - 2021-08-04
 
 - event bus: pinned timeout handling
