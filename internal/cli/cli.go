@@ -86,3 +86,6 @@ func runScan(cfg *config.Config, target string) error {
 	}
 	return nil
 }
+
+	var exitOnFindings bool
+	scanCmd.Flags().BoolVar(&exitOnFindings, "fail", true, "exit 1 on findings")
