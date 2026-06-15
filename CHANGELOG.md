@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-04-26
+
+- event bus: simplified rate limiting
+
 ## [Unreleased] - 2024-02-05
 
 - event bus: rewritten default values
