@@ -3,3 +3,6 @@ bin/
 dist/
 cipherwall.db
 .report/
+*.out
+.idea/
+coverage.out
