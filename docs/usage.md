@@ -58,3 +58,11 @@ scan:
       language: system
       types: [text]
 ```
+
+## Uploading to code scanning
+
+Upload the generated SARIF to GitHub code scanning so findings appear as inline annotations:
+
+```bash
+gh api /repos/{owner}/{repo}/code-scanning/sarifs -f commit_sha=$(git rev-parse HEAD) -f sarif=@report.sarif
+```
