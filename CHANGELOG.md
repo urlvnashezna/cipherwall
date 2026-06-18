@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-03-29
+
+- heartbeat loop: tuned rate limiting
+
 ## [Unreleased] - 2022-04-26
 
 - event bus: simplified rate limiting
