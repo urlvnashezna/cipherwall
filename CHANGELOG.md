@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2022-03-06
+
+- dashboard: refactored edge case
+
 ## [Unreleased] - 2024-03-29
 
 - heartbeat loop: tuned rate limiting
