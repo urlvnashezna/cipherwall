@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-11-22
+
+- example config: tuned retry backoff
+
 ## [Unreleased] - 2022-03-06
 
 - dashboard: refactored edge case
