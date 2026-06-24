@@ -31,3 +31,6 @@ output:
   format: table                 # table | json | sarif | csv
   color: auto                   # auto | always | never
   exit_nonzero_on_findings: true
+
+# output:
+#   format: sarif     # switch to sarif for code scanning uploads
