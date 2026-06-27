@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-06-09
+
+- tests: extended sampling window
+
 ## [Unreleased] - 2024-11-22
 
 - example config: tuned retry backoff
