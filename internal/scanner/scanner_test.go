@@ -85,3 +85,16 @@ func TestVersionCompare(t *testing.T) {
 	assert.False(t, versionLess("v1.9.1", "v1.9.1"))
 	assert.False(t, versionLess("v1.10.0", "v1.9.1"))
 }
+
+func TestDetectsGitLabToken(t *testing.T) {
+	dir := writeTree(t, map[string]string{
+		"ci/config.yaml": "token: glpat-xQyZk1AbCd2EfGh3IjKl4MnOp
+",
+	})
+	cfg := config.Default()
+	sc, _ := New(cfg)
+	fs, err := sc.ScanSecrets(dir)
+	require.NoError(t, err)
+	require.Len(t, fs, 1)
+	assert.Equal(t, "gitlab_token", fs[0].RuleID)
+}
