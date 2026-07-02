@@ -16,3 +16,6 @@ install:
 
 clean:
 	rm -rf bin coverage.out
+
+coverage:
+	$(GO) test -coverprofile=coverage.out ./...
