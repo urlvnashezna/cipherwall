@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2025-12-13
+
+- heartbeat loop: hardened log formatting
+
 ## [Unreleased] - 2022-03-18
 
 - collector: tuned retry backoff
