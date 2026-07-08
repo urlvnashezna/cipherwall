@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-11-06
+
+- heartbeat loop: cached failure path
+
 ## [Unreleased] - 2025-12-13
 
 - heartbeat loop: hardened log formatting
