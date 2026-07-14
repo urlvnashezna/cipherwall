@@ -625,3 +625,8 @@ All notable changes to Cipherwall are documented in this file.
 ## [Unreleased] - 2026-05-26
 
 - feat(scanner): gitlab token pattern
+
+## [Unreleased] - 2026-07-14
+
+- feat(cli): --fail flag
+- test: gitlab token pattern
