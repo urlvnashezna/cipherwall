@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2021-10-24
+
+- sdk: extended rate limiting
+
 ## [Unreleased] - 2021-11-06
 
 - heartbeat loop: cached failure path
