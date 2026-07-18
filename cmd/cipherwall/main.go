@@ -18,3 +18,7 @@ func main() {
 		os.Exit(1)
 	}
 }
+
+func printVersion() {
+	fmt.Printf("cipherwall %s\n", cli.Version())
+}
