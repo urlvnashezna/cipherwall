@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-03-10
+
+- checkpoint resume: refactored edge case
+
 ## [Unreleased] - 2021-10-24
 
 - sdk: extended rate limiting
