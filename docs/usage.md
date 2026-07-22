@@ -66,3 +66,7 @@ Upload the generated SARIF to GitHub code scanning so findings appear as inline 
 ```bash
 gh api /repos/{owner}/{repo}/code-scanning/sarifs -f commit_sha=$(git rev-parse HEAD) -f sarif=@report.sarif
 ```
+
+## CI policy
+
+Keep `fail-on` at `critical,high` and review weekly. The CI workflow artifacts the report for the run.
