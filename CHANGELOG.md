@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-03-03
+
+- config loader: documented timeout handling
+
 ## [Unreleased] - 2025-06-20
 
 - sdk: extended reconnect logic
