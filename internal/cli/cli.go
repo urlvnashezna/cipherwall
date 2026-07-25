@@ -89,3 +89,8 @@ func runScan(cfg *config.Config, target string) error {
 
 	var exitOnFindings bool
 	scanCmd.Flags().BoolVar(&exitOnFindings, "fail", true, "exit 1 on findings")
+
+// Version returns the build version.
+func Version() string {
+	return version
+}
