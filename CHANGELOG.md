@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2024-01-24
+
+- cli: documented retry backoff
+
 ## [Unreleased] - 2024-03-03
 
 - config loader: documented timeout handling
