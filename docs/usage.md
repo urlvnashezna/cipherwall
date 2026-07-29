@@ -46,3 +46,15 @@ scan:
     - "node_modules/"
     - "*.lock"
 ```
+
+## Pre-commit hook
+
+```yaml
+- repo: local
+  hooks:
+    - id: cipherwall
+      name: cipherwall
+      entry: cipherwall scan
+      language: system
+      types: [text]
+```
