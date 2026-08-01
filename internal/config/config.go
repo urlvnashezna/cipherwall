@@ -123,3 +123,8 @@ func WriteDefault(path string) error {
 }
 
 var _ = strings.TrimSpace
+
+// ScanTimeoutS bounds a full scan in seconds (0 = unlimited).
+type ScanRuntime struct {
+	TimeoutS int `yaml:"timeout_s" json:"timeout_s"`
+}
