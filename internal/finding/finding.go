@@ -84,3 +84,8 @@ func CountBySeverity(fs []Finding) map[Severity]int {
 	}
 	return out
 }
+
+// Fingerprint returns a stable dedup key for a finding.
+func (f Finding) Fingerprint() string {
+	return fmt.Sprintf("%s:%s:%d", f.Kind, f.File, f.Line)
+}
