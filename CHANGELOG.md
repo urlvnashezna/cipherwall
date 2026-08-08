@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2023-01-08
+
+- exporter: fixed retry backoff
+
 ## [Unreleased] - 2022-07-13
 
 - api handlers: pinned retry backoff
