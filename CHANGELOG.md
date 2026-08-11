@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-07-31
+
+- heartbeat loop: documented threshold checks
+
 ## [Unreleased] - 2023-01-08
 
 - exporter: fixed retry backoff
