@@ -120,3 +120,6 @@ func loadAdvisories() []Advisory {
 	_ = json.Unmarshal([]byte(raw), &advisoryDB)
 	return advisoryDB
 }
+
+	"Cargo.toml": regexp.MustCompile(
+		`^\s*([a-zA-Z0-9_\-]+)\s*=\s*\"([0-9][^\"]*)\"`),
