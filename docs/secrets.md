@@ -31,3 +31,7 @@ secrets:
   entropy_threshold: 4.6   # raise for hex-heavy projects
   min_length: 20
 ```
+
+## Advisory database
+
+The bundled advisory DB is curated and updated each release. Scans are fully offline; no network calls are made.
