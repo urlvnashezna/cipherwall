@@ -187,3 +187,11 @@ func (r *Renderer) renderSARIF(fs []finding.Finding) {
 }
 
 var _ = sort.Strings
+
+// Summary returns a one-line count summary for status output.
+func Summary(fs []finding.Finding) string {
+	c := finding.CountBySeverity(fs)
+	return fmt.Sprintf("%d finding(s): %d critical, %d high, %d medium",
+		len(fs), c[finding.SeverityCritical],
+		c[finding.SeverityHigh], c[finding.SeverityMedium])
+}
