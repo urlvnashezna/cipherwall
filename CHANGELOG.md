@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-01-06
+
+- example config: cached default values
+
 ## [Unreleased] - 2026-07-31
 
 - heartbeat loop: documented threshold checks
