@@ -1,23 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:134e4a,50:0f766e,100:14b8a6&text=Cipherwall&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=secret%20and%20dependency%20scanner%20for%20your%20repos&descSize=17&descAlignY=64" width="100%" />
+# ⚔️ Cipherwall
 
-[![Go](https://img.shields.io/badge/Go-1.21%2B-14b8a6?style=for-the-badge&logo=go&logoColor=white)](go.mod)
-[![License](https://img.shields.io/badge/License-MIT-134e4a?style=for-the-badge)](LICENSE)
-[![Offline](https://img.shields.io/badge/offline-first-advisory%20db-14b8a6?style=for-the-badge)](docs/secrets.md)
-[![SARIF](https://img.shields.io/badge/SARIF-code%20scanning-134e4a?style=for-the-badge)](docs/usage.md)
+**The repo security gate you run before you push.**
+
+```text
+┌─────────────────────────────────────────────────────┐
+│  ██████╗██╗██████╗██╗  ██╗███████╗██████╗ ██╗    │
+│ ██╔════╝██║██╔══██╗██║  ██║██╔════╝██╔══██╗██║    │
+│ ██║     ██║██████╔╝███████║█████╗  ██████╔╝██║    │
+│ ██║     ██║██╔═══╝ ██╔══██║██╔══╝  ██╔═══╝ ╚═╝    │
+│ ╚██████╗██║██║     ██║  ██║███████╗██║     ██╗    │
+│  ╚═════╝╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝    │
+└─────────────────────────────────────────────────────┘
+```
+
+[![Go](https://img.shields.io/badge/Go-1.21%2B-10b981?style=flat-square&logo=go&logoColor=white)](go.mod)
+[![License: MIT](https://img.shields.io/badge/License-MIT-10b981.svg?style=flat-square)](LICENSE)
+[![Offline-first](https://img.shields.io/badge/offline-first-no%20network-065f46?style=flat-square)](docs/secrets.md)
+[![SARIF](https://img.shields.io/badge/SARIF-code%20scanning-ready-10b981?style=flat-square)](docs/usage.md)
+[![PRs](https://img.shields.io/badge/PRs-welcome-10b981.svg?style=flat-square)](CONTRIBUTING.md)
 
 </div>
 
 ---
 
-## 🔒 What Cipherwall is
+## 🔐 What Cipherwall is
 
-A **Go binary** that scans a repository for leaked credentials and vulnerable
-dependencies — locally, in CI, or as a pre-commit hook.
+A single **Go binary** that gates your repo before it ever ships — scanning for
+**leaked credentials** and **known-vulnerable dependencies** in one command.
+No accounts. No network calls. No excuses.
 
 ```bash
-cipherwall scan ./my-repo
+$ cipherwall scan ./my-repo
+
 [CRITICAL] config/settings.yaml:1  possible credential leak
       AKIA....MPLE
 [CRITICAL] .env:1  possible credential leak
@@ -26,58 +42,55 @@ cipherwall scan ./my-repo
 2 finding(s): 2 critical
 ```
 
-## 🛡️ What it detects
+## 🗡️ The two-layer defense
 
-| layer | catches |
+| Layer | What it catches |
 |---|---|
-| **Secrets** | AWS keys, GitHub tokens, Slack webhooks, private keys, Stripe keys + high-entropy strings |
-| **Dependencies** | go.mod / package.json / requirements.txt against a bundled offline advisory DB |
+| 🩸 **Secrets** | AWS keys · GitHub/GitLab tokens · Slack webhooks · Stripe keys · private keys · **high-entropy strings** |
+| 🧬 **Dependencies** | go.mod · package.json · requirements.txt · Cargo.toml against a **bundled offline advisory DB** |
 
-## ⚡ Why
+## ⚡ Fast. Local. Private.
 
-Leaked keys and known-vulnerable deps are the two most common ways repos get
-compromised. Cipherwall makes both checks a one-command habit — and it runs
-**fully offline** (no API calls, no telemetry, no accounts).
+- **Fully offline** — bundled advisory DB, zero network calls
+- **Detected secrets are masked** in every output format (`AKIA....MPLE`) — never leaked twice
+- **One static binary** — no runtime, no deps, works in CI, hooks, and air-gapped environments
 
 ## 🚀 Quick start
 
 ```bash
 git clone https://github.com/urlvnashezna/cipherwall.git && cd cipherwall
 go build -o bin/cipherwall ./cmd/cipherwall
-cipherwall init                       # write cipherwall.yaml
-cipherwall scan .                     # scan this repo
+cipherwall init                     # write cipherwall.yaml
+cipherwall scan .                   # scan this very repo
 ```
 
 <details open>
-<summary><b>👀 Formats & CI</b></summary>
+<summary><b>🧪 Output formats</b></summary>
 
 ```bash
-cipherwall scan . --format json      # machine-readable
-cipherwall scan . --format sarif     # GitHub code scanning
-cipherwall scan . --format csv       # spreadsheets
-
-# CI
-- run: cipherwall scan . --format sarif > findings.sarif
+cipherwall scan . --format json     # jq-ready
+cipherwall scan . --format sarif    # GitHub code scanning
+cipherwall scan . --format csv      # spreadsheets / audits
 ```
 
 </details>
 
-## ⚙️ Config
+## ⚙️ Configuration
 
 ```yaml
 scan:
   exclude: ["vendor/", "node_modules/", "*.lock"]
 secrets:
-  entropy_threshold: 4.2
-  min_length: 16
+  entropy_threshold: 4.2            # Shannon entropy cutoff
+  min_length: 16                    # ignore short strings
 dependencies:
-  min_severity: high
+  min_severity: high                # noise floor
 output:
-  format: table
-  exit_nonzero_on_findings: true
+  format: table                     # table | json | sarif | csv
+  exit_nonzero_on_findings: true    # CI-friendly
 ```
 
-## 📁 Repo layout
+## 📁 Layout
 
 ```text
 .
@@ -92,27 +105,22 @@ output:
 ├── config.example.yaml
 ├── go.mod
 ├── Makefile
-├── CHANGELOG.md
 └── docs/                 usage · secrets
 ```
 
 ## 📚 Docs
 
-- [Usage & CI](docs/usage.md)
-- [Secret detection reference](docs/secrets.md)
+- [Usage & CI](docs/usage.md) — including the pre-commit hook recipe
+- [Secret detection reference](docs/secrets.md) — every rule + tuning knobs
 
 ## 🛡️ License
 
-MIT. See `LICENSE`.
+[MIT](LICENSE) — do what you want, just don't blame us.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:14b8a6,50:0f766e,100:134e4a&section=footer" width="100%" />
-
 *Scan before you ship.*
 
 </div>
-
-> **Tip:** run `cipherwall scan . --format sarif` in CI and upload the result to GitHub code scanning - no action needed on your side beyond the upload step.
