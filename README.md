@@ -114,3 +114,5 @@ MIT. See `LICENSE`.
 *Scan before you ship.*
 
 </div>
+
+> **Tip:** run `cipherwall scan . --format sarif` in CI and upload the result to GitHub code scanning - no action needed on your side beyond the upload step.
