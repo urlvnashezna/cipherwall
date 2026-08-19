@@ -3,6 +3,10 @@
 All notable changes to Cipherwall are documented in this file.
 
 
+## [Unreleased] - 2026-04-29
+
+- dependency pins: refactored reconnect logic
+
 ## [Unreleased] - 2026-01-06
 
 - example config: cached default values
