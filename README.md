@@ -5,21 +5,18 @@
 **The repo security gate you run before you push.**
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│  ██████╗██╗██████╗██╗  ██╗███████╗██████╗ ██╗    │
-│ ██╔════╝██║██╔══██╗██║  ██║██╔════╝██╔══██╗██║    │
-│ ██║     ██║██████╔╝███████║█████╗  ██████╔╝██║    │
-│ ██║     ██║██╔═══╝ ██╔══██║██╔══╝  ██╔═══╝ ╚═╝    │
-│ ╚██████╗██║██║     ██║  ██║███████╗██║     ██╗    │
-│  ╚═════╝╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝    │
-└─────────────────────────────────────────────────────┘
+ ██████╗██╗██████╗██╗  ██╗███████╗██████╗ ██╗
+ ██╔════╝██║██╔══██╗██║  ██║██╔════╝██╔══██╗██║
+ ██║     ██║██████╔╝███████║█████╗  ██████╔╝██║
+ ██║     ██║██╔═══╝ ██╔══██║██╔══╝  ██╔═══╝ ╚═╝
+ ╚██████╗██║██║     ██║  ██║███████╗██║     ██╗
+  ╚═════╝╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝
 ```
 
 [![Go](https://img.shields.io/badge/Go-1.21%2B-10b981?style=flat-square&logo=go&logoColor=white)](go.mod)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981.svg?style=flat-square)](LICENSE)
 [![Offline-first](https://img.shields.io/badge/offline-first-no%20network-065f46?style=flat-square)](docs/secrets.md)
 [![SARIF](https://img.shields.io/badge/SARIF-code%20scanning-ready-10b981?style=flat-square)](docs/usage.md)
-[![PRs](https://img.shields.io/badge/PRs-welcome-10b981.svg?style=flat-square)](CONTRIBUTING.md)
 
 </div>
 
