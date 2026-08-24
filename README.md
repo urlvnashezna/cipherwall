@@ -1,17 +1,8 @@
 <div align="center">
 
-# ⚔️ Cipherwall
+<img src="https://capsule-render.vercel.app/api?type=slice&height=150&color=0:134e4a,50:0f766e,100:14b8a6&text=Cipherwall&fontSize=48&fontColor=ffffff&rotate=-6" width="100%" />
 
 **The repo security gate you run before you push.**
-
-```text
- ██████╗██╗██████╗██╗  ██╗███████╗██████╗ ██╗
- ██╔════╝██║██╔══██╗██║  ██║██╔════╝██╔══██╗██║
- ██║     ██║██████╔╝███████║█████╗  ██████╔╝██║
- ██║     ██║██╔═══╝ ██╔══██║██╔══╝  ██╔═══╝ ╚═╝
- ╚██████╗██║██║     ██║  ██║███████╗██║     ██╗
-  ╚═════╝╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝
-```
 
 [![Go](https://img.shields.io/badge/Go-1.21%2B-10b981?style=flat-square&logo=go&logoColor=white)](go.mod)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981.svg?style=flat-square)](LICENSE)
